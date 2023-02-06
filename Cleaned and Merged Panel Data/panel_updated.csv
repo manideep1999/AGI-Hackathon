@@ -1,0 +1,1733 @@
+week,producer_code,product_id,Product,quantity.x,cost.x,price.x,quantity.y,cost.y,price.y,undelivered,unplanned,discrepancy,Category,Category,Category 2,Category 3,Owns Land,Owns Water
+6/6/21,CHO,3266,"Onions, Scallions",5,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+6/6/21,CVP,3266,"Onions, Scallions",5,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/6/21,HAF,3266,"Onions, Scallions",5,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+6/6/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",8,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+6/6/21,NTN,3266,"Onions, Scallions",6,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/6/21,NTN,3813,"Greens, Kale",15,36,NA,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+6/6/21,POG,3806,"Greens, Lettuce, Head",38,36,NA,19,36,39.96,0,0,-50.00%,Greens, Lettuce, Head,,#N/A,#N/A
+6/6/21,SGC,3266,"Onions, Scallions",5,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,#N/A,#N/A
+6/6/21,YMF,3266,"Onions, Scallions",12,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+6/6/21,YMF,3806,"Greens, Lettuce, Head",38,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+6/13/21,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",30,33.75,NA,82,33.75,37.46,0,0,173.30%,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+6/13/21,CVP,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/13/21,DTF,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+6/13/21,HAF,3266,"Onions, Scallions",6,28.8,NA,6,28.8,31.97,0,0,0.00%,Onions, Scallions,,,TRUE,FALSE
+6/13/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",10,33.75,NA,10,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+6/13/21,NTN,3266,"Onions, Scallions",11,28.8,NA,39,28.8,31.97,0,0,254.50%,Onions, Scallions,,,FALSE,FALSE
+6/13/21,POG,3775,Kohlrabi,36,30,NA,NA,NA,NA,1,0,NA,Kohlrabi,,,,#N/A,#N/A
+6/13/21,SEE,3304,Garlic Scapes,38,48,NA,NA,NA,NA,1,0,NA,Garlic Scapes,,,,TRUE,TRUE
+6/13/21,SGC,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,#N/A,#N/A
+6/13/21,WKH,3806,"Greens, Lettuce, Head",5,36,NA,5,36,39.96,0,0,0.00%,Greens, Lettuce, Head,,#N/A,#N/A
+6/13/21,YMF,3266,"Onions, Scallions",11,28.8,NA,11,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,TRUE
+6/13/21,YMF,3813,"Greens, Kale",38,36,NA,24,36,39.96,0,0,-36.80%,Greens, Kale,,,FALSE,TRUE
+6/20/21,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",10,33.75,NA,10,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/20/21,CHO,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,TRUE,FALSE
+6/20/21,CHO,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+6/20/21,CVP,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/20/21,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,5,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/20/21,DTF,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+6/20/21,HAF,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,TRUE,FALSE
+6/20/21,HAF,3806,"Greens, Lettuce, Head",10,36,NA,17,36,39.96,0,0,70.00%,Greens, Lettuce, Head,,TRUE,FALSE
+6/20/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",10,33.75,NA,10,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+6/20/21,MHG,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/20/21,NTN,3266,"Onions, Scallions",7,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/20/21,PBY,3573,"Greens, Bok Choy",30,40,NA,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,FALSE,FALSE
+6/20/21,POG,3669,"Greens, Chard",38,36,NA,38,36,39.96,0,0,0.00%,Greens, Chard,,,#N/A,#N/A
+6/20/21,SGC,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,#N/A,#N/A
+6/20/21,WKH,3573,"Greens, Bok Choy",10,40,NA,10,40,44.4,0,0,0.00%,Greens, Bok Choy,,,#N/A,#N/A
+6/20/21,WKH,3806,"Greens, Lettuce, Head",18,36,NA,18,36,39.96,0,0,0.00%,Greens, Lettuce, Head,,#N/A,#N/A
+6/20/21,YMF,3266,"Onions, Scallions",11,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+6/20/21,YMF,3806,"Greens, Lettuce, Head",38,36,NA,15,36,39.96,0,0,-60.50%,Greens, Lettuce, Head,,FALSE,TRUE
+6/27/21,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",15,33.75,NA,10,33.75,37.46,0,0,-33.30%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/27/21,CHO,3266,"Onions, Scallions",5,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+6/27/21,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",30,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+6/27/21,CHO,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+6/27/21,CVP,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/27/21,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,9,33.75,37.46,0,0,80.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/27/21,DTF,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+6/27/21,HAF,3266,"Onions, Scallions",7,28.8,NA,7,28.8,31.97,0,0,0.00%,Onions, Scallions,,,TRUE,FALSE
+6/27/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,5,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+6/27/21,MHG,3278,"Radish, Red, Bulk, Bunched w/Tops",7,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/27/21,NTN,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/27/21,POG,3806,"Greens, Lettuce, Head",38,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,#N/A,#N/A
+6/27/21,SEE,NA,#N/A,19,36,NA,NA,NA,NA,1,0,NA,#N/A,,,,TRUE,TRUE
+6/27/21,SGC,3266,"Onions, Scallions",5,28.8,NA,5,28.8,31.97,0,0,0.00%,Onions, Scallions,,,#N/A,#N/A
+6/27/21,WKH,3278,"Radish, Red, Bulk, Bunched w/Tops",8,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+6/27/21,WKH,3573,"Greens, Bok Choy",45,40,NA,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,#N/A,#N/A
+6/27/21,WKH,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,#N/A,#N/A
+6/27/21,YMF,3216,Rhubarb,36,60,NA,NA,NA,NA,1,0,NA,Rhubarb,,,,FALSE,TRUE
+6/27/21,YMF,3266,"Onions, Scallions",11,28.8,NA,11,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,TRUE
+6/27/21,YMF,3806,"Greens, Lettuce, Head",5,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+7/4/21,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",20,33.75,NA,5,33.75,37.46,0,0,-75.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/4/21,CHO,3266,"Onions, Scallions",11,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+7/4/21,CHO,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+7/4/21,CVP,3266,"Onions, Scallions",11,28.8,NA,11,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+7/4/21,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/4/21,DTF,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,FALSE
+7/4/21,HAF,3266,"Onions, Scallions",11,28.8,NA,11,28.8,31.97,0,0,0.00%,Onions, Scallions,,,TRUE,FALSE
+7/4/21,HAF,3806,"Greens, Lettuce, Head",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Lettuce, Head,,TRUE,FALSE
+7/4/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",8,33.75,NA,8,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+7/4/21,LXF,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+7/4/21,MHG,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/4/21,NTN,3266,"Onions, Scallions",11,28.8,NA,11,28.8,31.97,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+7/4/21,SEE,3326,Fennel,38,42,NA,30,42,46.62,0,0,-21.10%,Fennel,,,,TRUE,TRUE
+7/4/21,SGC,3266,"Onions, Scallions",11,28.8,NA,11,28.8,31.97,0,0,0.00%,Onions, Scallions,,,#N/A,#N/A
+7/4/21,WKH,3361,"Cucumbers, Slicing",15,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+7/4/21,WKH,3806,"Greens, Lettuce, Head",18,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,#N/A,#N/A
+7/4/21,YMF,3099,Beets Red w/greens,75,36,NA,NA,NA,NA,1,0,NA,Beets Red w/greens,,,,FALSE,TRUE
+7/4/21,YMF,3266,"Onions, Scallions",11,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+7/4/21,YMF,3401,"Beans, Green",18,62.5,NA,NA,NA,NA,1,0,NA,Beans, Green,,,FALSE,TRUE
+7/4/21,YMF,3775,Kohlrabi,18,30,NA,15,30,33.3,0,0,-16.70%,Kohlrabi,,,,FALSE,TRUE
+7/4/21,YMF,3806,"Greens, Lettuce, Head",15,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+7/11/21,AFC,3138,"Greens, Collards",5,36,NA,3,36,39.96,0,0,-40.00%,Greens, Collards,,,TRUE,TRUE
+7/11/21,AFC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,3,20,22.2,0,0,-50.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/11/21,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",20,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/11/21,CBS,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+7/11/21,CHO,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,FALSE
+7/11/21,CLP,3361,"Cucumbers, Slicing",6,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,FALSE
+7/11/21,D2D,3138,"Greens, Collards",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+7/11/21,D2D,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,9,20,22.2,0,0,-70.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/11/21,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,5,33.75,37.46,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/11/21,HAF,3138,"Greens, Collards",38,36,NA,38,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,FALSE
+7/11/21,HAF,3278,"Radish, Red, Bulk, Bunched w/Tops",10,33.75,NA,3,33.75,37.46,0,0,-70.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/11/21,HAF,3361,"Cucumbers, Slicing",38,20,NA,13,20,22.2,0,0,-65.80%,Cucumbers, Slicing,,,TRUE,FALSE
+7/11/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",20,33.75,NA,24,33.75,37.46,0,0,20.00%,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+7/11/21,LXF,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,55,20,22.2,0,0,83.30%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/11/21,MHG,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/11/21,MHG,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/11/21,MHG,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+7/11/21,MLG,3138,"Greens, Collards",10,36,NA,7,36,39.96,0,0,-30.00%,Greens, Collards,,,FALSE,FALSE
+7/11/21,SEE,3202,"Tomatoes, Slicers",23,40,NA,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,TRUE,TRUE
+7/11/21,SGC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,20,20,22.2,0,0,233.30%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/11/21,SGC,3361,"Cucumbers, Slicing",6,20,NA,15,20,22.2,0,0,150.00%,Cucumbers, Slicing,,,#N/A,#N/A
+7/11/21,WKH,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/11/21,WKH,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+7/18/21,AFC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,3,20,22.2,0,0,-50.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/18/21,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",20,33.75,NA,4,33.75,37.46,0,0,-80.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/18/21,CBS,3361,"Cucumbers, Slicing",30,20,NA,7,20,22.2,0,0,-76.70%,Cucumbers, Slicing,,,TRUE,TRUE
+7/18/21,CHO,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,FALSE
+7/18/21,CHO,3754,Cabbage,10,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,FALSE
+7/18/21,CHO,3813,"Greens, Kale",10,36,NA,NA,NA,NA,1,0,NA,Greens, Kale,,,TRUE,FALSE
+7/18/21,CLP,3361,"Cucumbers, Slicing",6,20,NA,12,20,22.2,0,0,100.00%,Cucumbers, Slicing,,,TRUE,FALSE
+7/18/21,CLP,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+7/18/21,D2D,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,9,20,22.2,0,0,-70.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/18/21,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,2,33.75,37.46,0,0,-60.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/18/21,D2D,3813,"Greens, Kale",10,36,NA,14,36,39.96,0,0,40.00%,Greens, Kale,,,TRUE,TRUE
+7/18/21,HAF,3364,"Greens, Mustard",38,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+7/18/21,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",20,33.75,NA,26,33.75,37.46,0,0,30.00%,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+7/18/21,LXF,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,50,20,22.2,0,0,66.70%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/18/21,LXF,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+7/18/21,MHG,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/18/21,MHG,3278,"Radish, Red, Bulk, Bunched w/Tops",5,33.75,NA,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/18/21,MHG,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+7/18/21,NTN,3813,"Greens, Kale",10,36,NA,30,36,39.96,0,0,200.00%,Greens, Kale,,,FALSE,FALSE
+7/18/21,PLT,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+7/18/21,SEE,3202,"Tomatoes, Slicers",23,40,NA,40,34,37.74,0,0,73.90%,Tomatoes, Slicers,,,TRUE,TRUE
+7/18/21,SGC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,26,20,22.2,0,0,333.30%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/18/21,SGC,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,#N/A,#N/A
+7/18/21,WKH,3184,"Squash, Summer Green Zucchini, Organic",45,20,NA,17,20,22.2,0,0,-62.20%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/18/21,WKH,3361,"Cucumbers, Slicing",45,20,NA,31,20,22.2,0,0,-31.10%,Cucumbers, Slicing,,,#N/A,#N/A
+7/18/21,YMF,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,10,20,22.2,0,0,-66.70%,Squash, Summer Green Zucchini, Organic,,FALSE,TRUE
+7/18/21,NA,3754,Cabbage,10,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,#N/A,#N/A
+7/25/21,AFC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,6,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/25/21,CBS,3153,"Peppers, Jalapeno",6,25.5,NA,9,25.5,28.31,0,0,50.00%,Peppers, Jalapeno,,,TRUE,TRUE
+7/25/21,CBS,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+7/25/21,CBS,3404,Tomatillos,90,28,NA,155,28,31.915,0,0,72.20%,Tomatillos,,,,TRUE,TRUE
+7/25/21,CHO,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,FALSE
+7/25/21,CLP,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,TRUE,FALSE
+7/25/21,D2D,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,10,20,22.2,0,0,-66.70%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/25/21,D2D,3401,"Beans, Green",15,62.5,NA,25,62.5,69.38,0,0,66.70%,Beans, Green,,,TRUE,TRUE
+7/25/21,HAF,3401,"Beans, Green",5,62.5,NA,5,62.5,69.38,0,0,0.00%,Beans, Green,,,TRUE,FALSE
+7/25/21,LXF,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,66,20,22.2,0,0,120.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/25/21,MHG,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/25/21,MHG,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+7/25/21,MKV,3759,Onions,15,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+7/25/21,MLG,3401,"Beans, Green",15,62.5,NA,NA,NA,NA,1,0,NA,Beans, Green,,,FALSE,FALSE
+7/25/21,MLP,3759,Onions,15,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+7/25/21,PBY,3401,"Beans, Green",15,62.5,NA,20,62.5,69.38,0,0,33.30%,Beans, Green,,,FALSE,FALSE
+7/25/21,POG,NA,#N/A,38,36,NA,NA,NA,NA,1,0,NA,#N/A,,,,#N/A,#N/A
+7/25/21,SEE,3202,"Tomatoes, Slicers",23,40,NA,17,34,44.4,0,0,-26.10%,Tomatoes, Slicers,,,TRUE,TRUE
+7/25/21,SGC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,36,20,22.2,0,0,500.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/25/21,SGC,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,#N/A,#N/A
+7/25/21,SGC,3828,"Peppers, Bell",15,35,NA,NA,NA,NA,1,0,NA,Peppers, Bell,,,#N/A,#N/A
+7/25/21,WKH,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/25/21,WKH,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+7/25/21,NA,3759,Onions,10,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+8/1/21,AFC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,6,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+8/1/21,CBS,3361,"Cucumbers, Slicing",30,20,NA,20,20,22.2,0,0,-33.30%,Cucumbers, Slicing,,,TRUE,TRUE
+8/1/21,CBS,3404,Tomatillos,66,28,NA,66,28,31.08,0,0,0.00%,Tomatillos,,,,TRUE,TRUE
+8/1/21,CHO,3361,"Cucumbers, Slicing",30,20,NA,15,20,22.2,0,0,-50.00%,Cucumbers, Slicing,,,TRUE,FALSE
+8/1/21,CHO,3813,"Greens, Kale",10,36,NA,NA,NA,NA,1,0,NA,Greens, Kale,,,TRUE,FALSE
+8/1/21,CLP,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,TRUE,FALSE
+8/1/21,CLP,3717,"Eggplant, Globe",18,31.62,NA,NA,NA,NA,1,0,NA,Eggplant, Globe,,,TRUE,FALSE
+8/1/21,CLP,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+8/1/21,D2D,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,12,20,22.2,0,0,-60.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+8/1/21,D2D,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,TRUE
+8/1/21,HAF,3138,"Greens, Collards",38,36,NA,38,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,FALSE
+8/1/21,LXF,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,30,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/1/21,LXF,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+8/1/21,MHG,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+8/1/21,MHG,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+8/1/21,NTN,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/1/21,PLT,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/1/21,SEE,3202,"Tomatoes, Slicers",23,40,NA,26,32.25,35.8,0,0,13.00%,Tomatoes, Slicers,,,TRUE,TRUE
+8/1/21,SGC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,6,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/1/21,SGC,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,#N/A,#N/A
+8/1/21,WKH,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,27,20,22.2,0,0,-10.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/1/21,WKH,3361,"Cucumbers, Slicing",45,20,NA,14,20,22.2,0,0,-68.90%,Cucumbers, Slicing,,,#N/A,#N/A
+8/1/21,YMF,3717,"Eggplant, Globe",18,31.62,NA,NA,NA,NA,1,0,NA,Eggplant, Globe,,,FALSE,TRUE
+8/8/21,AFC,3184,"Squash, Summer Green Zucchini, Organic",21,20,NA,13,20,22.2,0,0,-38.10%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+8/8/21,CBS,3361,"Cucumbers, Slicing",30,20,NA,15,20,22.2,0,0,-50.00%,Cucumbers, Slicing,,,TRUE,TRUE
+8/8/21,CHO,3361,"Cucumbers, Slicing",30,20,NA,45,20,22.2,0,0,50.00%,Cucumbers, Slicing,,,TRUE,FALSE
+8/8/21,CLP,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,TRUE,FALSE
+8/8/21,D2D,3184,"Squash, Summer Green Zucchini, Organic",45,20,NA,10,20,22.2,0,0,-77.80%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+8/8/21,D2D,3401,"Beans, Green",15,62.5,NA,15,62.5,69.38,0,0,0.00%,Beans, Green,,,TRUE,TRUE
+8/8/21,D2D,3758,"Eggplant, African (Bitter ball)",33,20,NA,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,TRUE,TRUE
+8/8/21,KHF,3759,Onions,23,40,NA,23,40,44.4,0,0,0.00%,Onions,,,,FALSE,FALSE
+8/8/21,LXF,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,30,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/8/21,LXF,3828,"Peppers, Bell",36,35,NA,45,28,31.08,0,0,25.00%,Peppers, Bell,,,#N/A,#N/A
+8/8/21,MHG,3184,"Squash, Summer Green Zucchini, Organic",30,20,NA,30,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+8/8/21,MHG,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+8/8/21,MKV,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+8/8/21,MLG,3401,"Beans, Green",15,62.5,NA,15,62.5,69.38,0,0,0.00%,Beans, Green,,,FALSE,FALSE
+8/8/21,PBY,3401,"Beans, Green",15,62.5,NA,15,62.5,69.38,0,0,0.00%,Beans, Green,,,FALSE,FALSE
+8/8/21,PBY,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,FALSE
+8/8/21,PLT,3758,"Eggplant, African (Bitter ball)",33,20,NA,33,20,22.2,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/8/21,SGC,3184,"Squash, Summer Green Zucchini, Organic",6,20,NA,6,20,22.2,0,0,0.00%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/8/21,SGC,3361,"Cucumbers, Slicing",6,20,NA,21,20,22.2,0,0,250.00%,Cucumbers, Slicing,,,#N/A,#N/A
+8/8/21,SGC,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+8/8/21,WKH,3132,"Carrots, Rainbow",18,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+8/8/21,WKH,3184,"Squash, Summer Green Zucchini, Organic",45,20,NA,12,20,22.2,0,0,-73.30%,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/8/21,WKH,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+8/8/21,WKH,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+8/8/21,YMF,3132,"Carrots, Rainbow",18,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+8/8/21,YMF,3401,"Beans, Green",5,62.5,NA,5,62.5,69.38,0,0,0.00%,Beans, Green,,,FALSE,TRUE
+8/15/21,AFC,3138,"Greens, Collards",5,36,NA,5,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+8/15/21,AFC,3405,Okra,6,51,NA,NA,NA,NA,1,0,NA,Okra,,,,TRUE,TRUE
+8/15/21,CBS,3153,"Peppers, Jalapeno",20,25.5,NA,20,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/15/21,CBS,3361,"Cucumbers, Slicing",30,20,NA,8,20,22.2,0,0,-73.30%,Cucumbers, Slicing,,,TRUE,TRUE
+8/15/21,CHO,3202,"Tomatoes, Slicers",9,40,NA,15,40,44.4,0,0,66.70%,Tomatoes, Slicers,,,TRUE,FALSE
+8/15/21,CHO,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,FALSE
+8/15/21,CHO,3364,"Greens, Mustard",5,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+8/15/21,CHO,3813,"Greens, Kale",10,36,NA,NA,NA,NA,1,0,NA,Greens, Kale,,,TRUE,FALSE
+8/15/21,CHO,3828,"Peppers, Bell",20,35,NA,NA,NA,NA,1,0,NA,Peppers, Bell,,,TRUE,FALSE
+8/15/21,CLP,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,TRUE,FALSE
+8/15/21,CLP,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+8/15/21,CLP,3828,"Peppers, Bell",10,35,NA,10,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+8/15/21,CVP,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,FALSE,FALSE
+8/15/21,D2D,3138,"Greens, Collards",10,36,NA,9,36,39.96,0,0,-10.00%,Greens, Collards,,,TRUE,TRUE
+8/15/21,D2D,3758,"Eggplant, African (Bitter ball)",33,20,NA,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,TRUE,TRUE
+8/15/21,D2D,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,TRUE
+8/15/21,KLF,3364,"Greens, Mustard",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Mustard,,,#N/A,#N/A
+8/15/21,KSL,3202,"Tomatoes, Slicers",12,40,NA,13,40,44.4,0,0,8.30%,Tomatoes, Slicers,,,FALSE,FALSE
+8/15/21,LXF,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+8/15/21,LXF,3449,"Peppers, Poblano",36,25,NA,NA,NA,NA,1,0,NA,Peppers, Poblano,,,#N/A,#N/A
+8/15/21,LXF,3539,Ground Cherries,75,33.6,NA,62,33.6,37.3,0,0,-17.30%,Ground Cherries,,,,#N/A,#N/A
+8/15/21,MHG,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/15/21,MHG,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,TRUE,TRUE
+8/15/21,MKV,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+8/15/21,MLG,3138,"Greens, Collards",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+8/15/21,MLG,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+8/15/21,MLP,3202,"Tomatoes, Slicers",12,40,NA,9,40,44.4,0,0,-25.00%,Tomatoes, Slicers,,,#N/A,#N/A
+8/15/21,NTN,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/15/21,NTN,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+8/15/21,PBY,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+8/15/21,PBY,3202,"Tomatoes, Slicers",12,40,NA,12,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+8/15/21,PLT,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+8/15/21,PLT,3364,"Greens, Mustard",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+8/15/21,PLT,3405,Okra,30,51,NA,30,51,56.61,0,0,0.00%,Okra,,,,FALSE,FALSE
+8/15/21,PLT,3758,"Eggplant, African (Bitter ball)",33,20,NA,33,20,22.2,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/15/21,PLT,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/15/21,POG,3669,"Greens, Chard",38,36,NA,38,36,39.96,0,0,0.00%,Greens, Chard,,,#N/A,#N/A
+8/15/21,POG,3717,"Eggplant, Globe",36,31.62,NA,NA,NA,NA,1,0,NA,Eggplant, Globe,,,#N/A,#N/A
+8/15/21,SGC,3153,"Peppers, Jalapeno",30,25.5,NA,20,25.5,28.31,0,0,-33.30%,Peppers, Jalapeno,,,#N/A,#N/A
+8/15/21,SGC,3361,"Cucumbers, Slicing",6,20,NA,6,20,22.2,0,0,0.00%,Cucumbers, Slicing,,,#N/A,#N/A
+8/15/21,SGC,3828,"Peppers, Bell",10,35,NA,4,35,38.85,0,0,-60.00%,Peppers, Bell,,,#N/A,#N/A
+8/15/21,WKH,3361,"Cucumbers, Slicing",30,20,NA,NA,NA,NA,1,0,NA,Cucumbers, Slicing,,,#N/A,#N/A
+8/22/21,AFC,3200,"Tomatoes, Grape",10,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+8/22/21,AFC,3201,"Tomatoes, Roma",6,35,NA,6,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+8/22/21,AFC,3405,Okra,6,51,NA,NA,NA,NA,1,0,NA,Okra,,,,TRUE,TRUE
+8/22/21,CBS,3153,"Peppers, Jalapeno",20,25.5,NA,20,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/22/21,CBS,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+8/22/21,CBS,3404,Tomatillos,66,28,NA,NA,NA,NA,1,0,NA,Tomatillos,,,,TRUE,TRUE
+8/22/21,CHO,3200,"Tomatoes, Grape",20,30,NA,52,32.5,36.075,0,0,160.00%,Tomatoes, Grape,,,TRUE,FALSE
+8/22/21,CHO,3458,"Peppers, Habanero",8,35,NA,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+8/22/21,CHO,3828,"Peppers, Bell",20,35,NA,NA,NA,NA,1,0,NA,Peppers, Bell,,,TRUE,FALSE
+8/22/21,CLP,3717,"Eggplant, Globe",50,31.62,NA,50,31.62,35.1,0,0,0.00%,Eggplant, Globe,,,TRUE,FALSE
+8/22/21,CLP,3828,"Peppers, Bell",10,35,NA,10,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+8/22/21,CVP,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,FALSE,FALSE
+8/22/21,D2D,3758,"Eggplant, African (Bitter ball)",33,20,NA,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,TRUE,TRUE
+8/22/21,DTF,3202,"Tomatoes, Slicers",53,40,NA,53,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+8/22/21,HAF,3364,"Greens, Mustard",38,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+8/22/21,HAF,3458,"Peppers, Habanero",8,35,NA,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+8/22/21,HAF,3613,"Beets Red, bulk",36,26.31,NA,36,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,TRUE,FALSE
+8/22/21,KHF,3166,"Potatoes, Red",9,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+8/22/21,KHF,3202,"Tomatoes, Slicers",13,40,NA,13,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+8/22/21,KLF,3717,"Eggplant, Globe",25,31.62,NA,25,31.62,35.1,0,0,0.00%,Eggplant, Globe,,,#N/A,#N/A
+8/22/21,LXF,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,#N/A,#N/A
+8/22/21,MHG,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/22/21,MHG,3200,"Tomatoes, Grape",25,30,NA,50,35,36.075,0,0,100.00%,Tomatoes, Grape,,,TRUE,TRUE
+8/22/21,MKV,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,#N/A,#N/A
+8/22/21,MKV,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,#N/A,#N/A
+8/22/21,MLG,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+8/22/21,MLP,3166,"Potatoes, Red",9,50,NA,9,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+8/22/21,NTN,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,FALSE,FALSE
+8/22/21,NTN,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+8/22/21,PLT,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+8/22/21,PLT,3405,Okra,30,51,NA,33,51,56.61,0,0,10.00%,Okra,,,,FALSE,FALSE
+8/22/21,PLT,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+8/22/21,PLT,3758,"Eggplant, African (Bitter ball)",33,20,NA,66,20,22.2,0,0,100.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/22/21,SGC,3091,Melon Honeydew Organic,88,20.1,NA,NA,NA,NA,1,0,NA,Melon Honeydew Organic,,,,#N/A,#N/A
+8/22/21,SGC,3153,"Peppers, Jalapeno",39,25.5,NA,39,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,#N/A,#N/A
+8/22/21,SGC,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,#N/A,#N/A
+8/22/21,SGC,3828,"Peppers, Bell",10,35,NA,21,35,38.85,0,0,110.00%,Peppers, Bell,,,#N/A,#N/A
+8/22/21,YMF,3717,"Eggplant, Globe",25,31.62,NA,25,31.62,35.1,0,0,0.00%,Eggplant, Globe,,,FALSE,TRUE
+8/22/21,NA,3184,"Squash, Summer Green Zucchini, Organic",45,20,NA,NA,NA,NA,1,0,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+8/29/21,AFC,3200,"Tomatoes, Grape",10,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+8/29/21,AFC,3201,"Tomatoes, Roma",6,35,NA,6,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+8/29/21,CBS,3153,"Peppers, Jalapeno",26,25.5,NA,20,25.5,28.31,0,0,-23.10%,Peppers, Jalapeno,,,TRUE,TRUE
+8/29/21,CBS,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+8/29/21,CBS,3404,Tomatillos,90,28,NA,NA,NA,NA,1,0,NA,Tomatillos,,,,TRUE,TRUE
+8/29/21,CHO,3200,"Tomatoes, Grape",38,30,NA,38,30,38.85,0,0,0.00%,Tomatoes, Grape,,,TRUE,FALSE
+8/29/21,CHO,3458,"Peppers, Habanero",8,35,NA,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+8/29/21,CHO,3828,"Peppers, Bell",20,35,NA,6,35,38.85,0,0,-70.00%,Peppers, Bell,,,TRUE,FALSE
+8/29/21,CLP,3828,"Peppers, Bell",10,35,NA,10,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+8/29/21,CVP,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,FALSE,FALSE
+8/29/21,CVP,3200,"Tomatoes, Grape",16,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,FALSE,FALSE
+8/29/21,CVP,3755,Carrots,30,31.62,NA,29,31.62,35.1,0,0,-3.30%,Carrots,,,,FALSE,FALSE
+8/29/21,D2D,3200,"Tomatoes, Grape",16,30,NA,16,35,38.85,0,0,0.00%,Tomatoes, Grape,,,TRUE,TRUE
+8/29/21,D2D,3755,Carrots,27,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,TRUE
+8/29/21,DTF,3202,"Tomatoes, Slicers",53,40,NA,53,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+8/29/21,HAF,3458,"Peppers, Habanero",8,35,NA,8,35,38.85,0,0,0.00%,Peppers, Habanero,,,TRUE,FALSE
+8/29/21,KHF,3202,"Tomatoes, Slicers",13,40,NA,13,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+8/29/21,KHF,3759,Onions,23,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+8/29/21,LXF,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+8/29/21,LXF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+8/29/21,MHG,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/29/21,MHG,3200,"Tomatoes, Grape",25,30,NA,16,35,38.85,0,0,-36.00%,Tomatoes, Grape,,,TRUE,TRUE
+8/29/21,MKV,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+8/29/21,MKV,3458,"Peppers, Habanero",25,35,NA,NA,NA,NA,1,0,NA,Peppers, Habanero,,,#N/A,#N/A
+8/29/21,MLG,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,FALSE
+8/29/21,MLG,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+8/29/21,NTN,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+8/29/21,NTN,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+8/29/21,PBY,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+8/29/21,PLT,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+8/29/21,PLT,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+8/29/21,POG,3755,Carrots,36,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,#N/A,#N/A
+8/29/21,RSV,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+8/29/21,SGC,3091,Melon Honeydew Organic,50,20.1,NA,NA,NA,NA,1,0,NA,Melon Honeydew Organic,,,,#N/A,#N/A
+8/29/21,SGC,3153,"Peppers, Jalapeno",30,25.5,NA,30,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,#N/A,#N/A
+8/29/21,SGC,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,#N/A,#N/A
+8/29/21,SGC,3759,Onions,20,40,NA,11,40,44.4,0,0,-45.00%,Onions,,,,#N/A,#N/A
+8/29/21,SGC,3828,"Peppers, Bell",22,35,NA,30,35,38.85,0,0,36.40%,Peppers, Bell,,,#N/A,#N/A
+8/29/21,SXF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,FALSE
+8/29/21,WKH,3200,"Tomatoes, Grape",16,30,NA,16,35,38.85,0,0,0.00%,Tomatoes, Grape,,,#N/A,#N/A
+8/29/21,YMF,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,TRUE
+8/29/21,YMF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,TRUE
+9/5/21,AFC,3201,"Tomatoes, Roma",6,35,NA,6,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/5/21,AFC,3813,"Greens, Kale",8,36,NA,8,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,TRUE
+9/5/21,CBS,3153,"Peppers, Jalapeno",20,25.5,NA,20,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/5/21,CBS,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/5/21,CHO,3200,"Tomatoes, Grape",18,30,NA,18,35,38.85,0,0,0.00%,Tomatoes, Grape,,,TRUE,FALSE
+9/5/21,CHO,3202,"Tomatoes, Slicers",6,40,NA,6,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/5/21,CHO,3364,"Greens, Mustard",5,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+9/5/21,CHO,3458,"Peppers, Habanero",8,35,NA,8,35,38.85,0,0,0.00%,Peppers, Habanero,,,TRUE,FALSE
+9/5/21,CHO,3828,"Peppers, Bell",20,35,NA,4,35,38.85,0,0,-80.00%,Peppers, Bell,,,TRUE,FALSE
+9/5/21,CLP,3401,"Beans, Green",5,62.5,NA,5,62.5,69.38,0,0,0.00%,Beans, Green,,,TRUE,FALSE
+9/5/21,CLP,3813,"Greens, Kale",8,36,NA,8,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+9/5/21,CLP,3828,"Peppers, Bell",10,35,NA,10,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+9/5/21,CVP,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,FALSE,FALSE
+9/5/21,CVP,3200,"Tomatoes, Grape",16,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,FALSE,FALSE
+9/5/21,CVP,3401,"Beans, Green",18,62.5,NA,NA,NA,NA,1,0,NA,Beans, Green,,,FALSE,FALSE
+9/5/21,D2D,3200,"Tomatoes, Grape",16,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+9/5/21,D2D,3401,"Beans, Green",33,62.5,NA,15,62.5,69.38,0,0,-54.50%,Beans, Green,,,TRUE,TRUE
+9/5/21,D2D,3813,"Greens, Kale",8,36,NA,NA,NA,NA,1,0,NA,Greens, Kale,,,TRUE,TRUE
+9/5/21,DTF,3202,"Tomatoes, Slicers",53,40,NA,71,40,44.4,0,0,34.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/5/21,HAF,3401,"Beans, Green",10,62.5,NA,10,62.5,69.38,0,0,0.00%,Beans, Green,,,TRUE,FALSE
+9/5/21,HAF,3458,"Peppers, Habanero",8,35,NA,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+9/5/21,HAF,3813,"Greens, Kale",8,36,NA,8,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+9/5/21,KHF,3202,"Tomatoes, Slicers",13,40,NA,13,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/5/21,KLF,3364,"Greens, Mustard",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Mustard,,,#N/A,#N/A
+9/5/21,KSL,3202,"Tomatoes, Slicers",10,40,NA,20,40,44.4,0,0,100.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/5/21,LXF,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,#N/A,#N/A
+9/5/21,MHG,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/5/21,MKV,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,#N/A,#N/A
+9/5/21,MKV,3405,Okra,30,51,NA,36,51,56.61,0,0,20.00%,Okra,,,,#N/A,#N/A
+9/5/21,MKV,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,#N/A,#N/A
+9/5/21,MKV,3759,Onions,30,40,NA,20,40,44.4,0,0,-33.30%,Onions,,,,#N/A,#N/A
+9/5/21,MLG,3401,"Beans, Green",15,62.5,NA,15,62.5,69.38,0,0,0.00%,Beans, Green,,,FALSE,FALSE
+9/5/21,MLG,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/5/21,MLP,3202,"Tomatoes, Slicers",10,40,NA,10,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,#N/A,#N/A
+9/5/21,NTN,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,FALSE,FALSE
+9/5/21,NTN,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/5/21,PBY,3202,"Tomatoes, Slicers",10,40,NA,20,40,44.4,0,0,100.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/5/21,PBY,3401,"Beans, Green",15,62.5,NA,15,62.5,69.38,0,0,0.00%,Beans, Green,,,FALSE,FALSE
+9/5/21,PBY,3759,Onions,33,40,NA,18,40,44.4,0,0,-45.50%,Onions,,,,FALSE,FALSE
+9/5/21,PLT,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+9/5/21,PLT,3364,"Greens, Mustard",10,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/5/21,PLT,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+9/5/21,PLT,3813,"Greens, Kale",6,36,NA,6,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+9/5/21,SGC,3089,Melon Watermelon Red Seeded Organic,46,38,NA,NA,NA,NA,1,0,NA,Melon Watermelon Red Seeded Organic,,,,#N/A,#N/A
+9/5/21,SGC,3153,"Peppers, Jalapeno",30,25.5,NA,26,25.5,28.31,0,0,-13.30%,Peppers, Jalapeno,,,#N/A,#N/A
+9/5/21,SGC,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,#N/A,#N/A
+9/5/21,SGC,3759,Onions,20,40,NA,26,40,44.4,0,0,30.00%,Onions,,,,#N/A,#N/A
+9/5/21,SGC,3828,"Peppers, Bell",10,35,NA,25,35,38.85,0,0,150.00%,Peppers, Bell,,,#N/A,#N/A
+9/5/21,WKH,3200,"Tomatoes, Grape",16,30,NA,16,35,38.85,0,0,0.00%,Tomatoes, Grape,,,#N/A,#N/A
+9/5/21,WKH,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+9/12/21,AFC,3138,"Greens, Collards",5,36,NA,5,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+9/12/21,AFC,3200,"Tomatoes, Grape",10,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+9/12/21,AFC,3201,"Tomatoes, Roma",6,35,NA,6,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/12/21,CBS,3153,"Peppers, Jalapeno",20,25.5,NA,20,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/12/21,CBS,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/12/21,CHO,3200,"Tomatoes, Grape",38,30,NA,26,35,38.85,0,0,-31.60%,Tomatoes, Grape,,,TRUE,FALSE
+9/12/21,CHO,3458,"Peppers, Habanero",8,35,NA,8,35,38.85,0,0,0.00%,Peppers, Habanero,,,TRUE,FALSE
+9/12/21,CHO,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+9/12/21,CLP,3717,"Eggplant, Globe",50,31.62,NA,50,31.62,35.1,0,0,0.00%,Eggplant, Globe,,,TRUE,FALSE
+9/12/21,CLP,3828,"Peppers, Bell",10,35,NA,10,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+9/12/21,CVP,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+9/12/21,CVP,3200,"Tomatoes, Grape",16,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,FALSE,FALSE
+9/12/21,CVP,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/12/21,D2D,3138,"Greens, Collards",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+9/12/21,D2D,3200,"Tomatoes, Grape",16,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+9/12/21,D2D,3755,Carrots,30,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,TRUE
+9/12/21,DTF,3202,"Tomatoes, Slicers",53,40,NA,53,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/12/21,DTF,3807,Cauliflower,50,23,NA,NA,NA,NA,1,0,NA,Cauliflower,,,,TRUE,FALSE
+9/12/21,HAF,3138,"Greens, Collards",8,36,NA,8,36,39.96,0,0,0.00%,Greens, Collards,,,TRUE,FALSE
+9/12/21,HAF,3458,"Peppers, Habanero",8,35,NA,8,35,38.85,0,0,0.00%,Peppers, Habanero,,,TRUE,FALSE
+9/12/21,HAF,3755,Carrots,12,31.62,NA,12,31.62,35.1,0,0,0.00%,Carrots,,,,TRUE,FALSE
+9/12/21,KHF,3202,"Tomatoes, Slicers",13,40,NA,13,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/12/21,KLF,3717,"Eggplant, Globe",25,31.62,NA,25,31.62,35.1,0,0,0.00%,Eggplant, Globe,,,#N/A,#N/A
+9/12/21,KSL,3138,"Greens, Collards",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+9/12/21,LXF,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+9/12/21,LXF,3755,Carrots,36,31.62,NA,38,31.62,35.1,0,0,5.60%,Carrots,,,,#N/A,#N/A
+9/12/21,LXF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+9/12/21,MHG,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/12/21,MHG,3200,"Tomatoes, Grape",25,30,NA,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+9/12/21,MKV,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+9/12/21,MKV,3405,Okra,30,51,NA,19,51,56.61,0,0,-36.70%,Okra,,,,#N/A,#N/A
+9/12/21,MKV,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,#N/A,#N/A
+9/12/21,MLG,3138,"Greens, Collards",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+9/12/21,MLG,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,FALSE
+9/12/21,MLG,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/12/21,MLP,3138,"Greens, Collards",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Collards,,,#N/A,#N/A
+9/12/21,NTN,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/12/21,NTN,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/12/21,PBY,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+9/12/21,PBY,3592,Broccoli,42,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,FALSE
+9/12/21,PLT,3138,"Greens, Collards",10,36,NA,NA,NA,NA,1,0,NA,Greens, Collards,,,FALSE,FALSE
+9/12/21,PLT,3153,"Peppers, Jalapeno",8,25.5,NA,8,25.5,28.31,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+9/12/21,PLT,3458,"Peppers, Habanero",25,35,NA,25,35,38.85,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+9/12/21,RSV,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/12/21,SGC,3153,"Peppers, Jalapeno",30,25.5,NA,24,25.5,28.31,0,0,-20.00%,Peppers, Jalapeno,,,#N/A,#N/A
+9/12/21,SGC,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,#N/A,#N/A
+9/12/21,SGC,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+9/12/21,SGC,3807,Cauliflower,25,23,NA,8,23,25.53,0,0,-68.00%,Cauliflower,,,,#N/A,#N/A
+9/12/21,SGC,3828,"Peppers, Bell",10,35,NA,21,35,38.85,0,0,110.00%,Peppers, Bell,,,#N/A,#N/A
+9/12/21,SXF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+9/12/21,WKH,3200,"Tomatoes, Grape",16,30,NA,16,35,38.85,0,0,0.00%,Tomatoes, Grape,,,#N/A,#N/A
+9/12/21,YMF,3717,"Eggplant, Globe",25,31.62,NA,25,31.62,35.1,0,0,0.00%,Eggplant, Globe,,,FALSE,TRUE
+9/12/21,YMF,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,TRUE
+9/12/21,YMF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,TRUE
+9/12/21,YMF,3807,Cauliflower,25,23,NA,NA,NA,NA,1,0,NA,Cauliflower,,,,FALSE,TRUE
+9/19/21,AFC,3201,"Tomatoes, Roma",6,35,NA,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/19/21,CBS,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/19/21,CHO,3202,"Tomatoes, Slicers",9,40,NA,9,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/19/21,CHO,3364,"Greens, Mustard",5,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+9/19/21,CHO,3813,"Greens, Kale",10,36,NA,NA,NA,NA,1,0,NA,Greens, Kale,,,TRUE,FALSE
+9/19/21,CHO,3828,"Peppers, Bell",20,35,NA,NA,NA,NA,1,0,NA,Peppers, Bell,,,TRUE,FALSE
+9/19/21,CLP,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+9/19/21,CLP,3828,"Peppers, Bell",10,35,NA,10,35,38.85,0,0,0.00%,Peppers, Bell,,,TRUE,FALSE
+9/19/21,CVP,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,FALSE,FALSE
+9/19/21,D2D,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,TRUE,TRUE
+9/19/21,DTF,3202,"Tomatoes, Slicers",53,40,NA,53,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/19/21,KHF,3202,"Tomatoes, Slicers",13,40,NA,20,40,44.4,0,0,53.80%,Tomatoes, Slicers,,,FALSE,FALSE
+9/19/21,KLF,3364,"Greens, Mustard",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Mustard,,,#N/A,#N/A
+9/19/21,KSL,3202,"Tomatoes, Slicers",12,40,NA,12,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/19/21,LXF,3132,"Carrots, Rainbow",64,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+9/19/21,LXF,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,#N/A,#N/A
+9/19/21,MKV,3171,"Potatoes, Yellow A",10,50,NA,8,50,55.5,0,0,-20.00%,Potatoes, Yellow A,,,#N/A,#N/A
+9/19/21,MKV,3405,Okra,30,51,NA,NA,NA,NA,1,0,NA,Okra,,,,#N/A,#N/A
+9/19/21,MKV,3759,Onions,20,40,NA,10,40,44.4,0,0,-50.00%,Onions,,,,#N/A,#N/A
+9/19/21,MLG,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/19/21,MLP,3202,"Tomatoes, Slicers",12,40,NA,12,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,#N/A,#N/A
+9/19/21,NTN,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,FALSE,FALSE
+9/19/21,NTN,3807,Cauliflower,23,23,NA,NA,NA,NA,1,0,NA,Cauliflower,,,,FALSE,FALSE
+9/19/21,NTN,3813,"Greens, Kale",10,36,NA,46,36,39.96,0,0,360.00%,Greens, Kale,,,FALSE,FALSE
+9/19/21,NTN,3828,"Peppers, Bell",20,35,NA,20,35,38.85,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/19/21,PBY,3202,"Tomatoes, Slicers",12,40,NA,12,40,44.4,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/19/21,PBY,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+9/19/21,PLT,3364,"Greens, Mustard",10,36,NA,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/19/21,PLT,3813,"Greens, Kale",10,36,NA,10,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+9/19/21,SEE,3189,"Squash, Winter, Delicata",52,35,NA,52,30,33.3,0,0,0.00%,Squash, Winter, Delicata,,TRUE,TRUE
+9/19/21,SGC,3189,"Squash, Winter, Delicata",25,35,NA,56,35,38.85,0,0,124.00%,Squash, Winter, Delicata,,#N/A,#N/A
+9/19/21,SGC,3201,"Tomatoes, Roma",20,35,NA,13,35,38.85,0,0,-35.00%,Tomatoes, Roma,,,#N/A,#N/A
+9/19/21,SGC,3759,Onions,20,40,NA,40,40,44.4,0,0,100.00%,Onions,,,,#N/A,#N/A
+9/19/21,SGC,3828,"Peppers, Bell",10,35,NA,15,35,38.85,0,0,50.00%,Peppers, Bell,,,#N/A,#N/A
+9/19/21,WKH,3132,"Carrots, Rainbow",12,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+9/19/21,WKH,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+9/19/21,YMF,3189,"Squash, Winter, Delicata",25,35,NA,16,35,38.85,0,0,-36.00%,Squash, Winter, Delicata,,FALSE,TRUE
+9/26/21,AFC,3201,"Tomatoes, Roma",6,35,NA,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/26/21,CBS,3201,"Tomatoes, Roma",20,35,NA,20,35,38.85,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/26/21,CBS,3404,Tomatillos,66,28,NA,NA,NA,NA,1,0,NA,Tomatillos,,,,TRUE,TRUE
+9/26/21,CVP,3166,"Potatoes, Red",10,50,NA,0,50,55.5,0,0,-100.00%,Potatoes, Red,,,FALSE,FALSE
+9/26/21,DTF,3807,Cauliflower,50,23,NA,NA,NA,NA,1,0,NA,Cauliflower,,,,TRUE,FALSE
+9/26/21,HAF,3266,"Onions, Scallions",10,28.8,NA,34,28.8,31.97,0,0,240.00%,Onions, Scallions,,,TRUE,FALSE
+9/26/21,KSL,3592,Broccoli,20,31.45,NA,18,31.45,34.91,0,0,-10.00%,Broccoli,,,,FALSE,FALSE
+9/26/21,LXF,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+9/26/21,MKV,3166,"Potatoes, Red",10,50,NA,0,50,55.5,0,0,-100.00%,Potatoes, Red,,,#N/A,#N/A
+9/26/21,MLP,3592,Broccoli,20,31.45,NA,16,31.45,34.91,0,0,-20.00%,Broccoli,,,,#N/A,#N/A
+9/26/21,NTN,3592,Broccoli,30,31.45,NA,30,31.45,34.91,0,0,0.00%,Broccoli,,,,FALSE,FALSE
+9/26/21,PBY,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+9/26/21,PBY,3592,Broccoli,72,31.45,NA,0,31.45,34.91,0,0,-100.00%,Broccoli,,,,FALSE,FALSE
+9/26/21,SGC,3201,"Tomatoes, Roma",20,35,NA,10,35,38.85,0,0,-50.00%,Tomatoes, Roma,,,#N/A,#N/A
+9/26/21,SGC,3592,Broccoli,10,31.45,NA,0,31.45,34.91,0,0,-100.00%,Broccoli,,,,#N/A,#N/A
+9/26/21,SGC,3807,Cauliflower,25,23,NA,5,23,25.53,0,0,-80.00%,Cauliflower,,,,#N/A,#N/A
+9/26/21,WKH,3592,Broccoli,10,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,#N/A,#N/A
+9/26/21,YMF,3592,Broccoli,30,31.45,NA,15,31.45,34.91,0,0,-50.00%,Broccoli,,,,FALSE,TRUE
+9/26/21,YMF,3807,Cauliflower,25,23,NA,0,23,25.53,0,0,-100.00%,Cauliflower,,,,FALSE,TRUE
+10/3/21,CBS,3188,"Squash, Winter, Butternut",25,24.65,NA,25,24.65,27.36,0,0,0.00%,Squash, Winter, Butternut,,TRUE,TRUE
+10/3/21,CLP,3613,"Beets Red, bulk",16,26.31,NA,16,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,TRUE,FALSE
+10/3/21,CVP,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,FALSE,FALSE
+10/3/21,CVP,3755,Carrots,30,31.62,NA,35,31.62,35.1,0,0,16.70%,Carrots,,,,FALSE,FALSE
+10/3/21,D2D,3079,Brussels Sprouts,10,42.16,NA,NA,NA,NA,1,0,NA,Brussels Sprouts,,,,TRUE,TRUE
+10/3/21,D2D,3755,Carrots,30,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,TRUE
+10/3/21,HAF,3755,Carrots,12,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,FALSE
+10/3/21,LXF,3079,Brussels Sprouts,40,42.16,NA,40,42.16,46.8,0,0,0.00%,Brussels Sprouts,,,,#N/A,#N/A
+10/3/21,LXF,3132,"Carrots, Rainbow",84,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+10/3/21,LXF,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,#N/A,#N/A
+10/3/21,LXF,3613,"Beets Red, bulk",18,26.31,NA,18,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,#N/A,#N/A
+10/3/21,LXF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+10/3/21,MHG,3613,"Beets Red, bulk",16,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,TRUE,TRUE
+10/3/21,MKV,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,#N/A,#N/A
+10/3/21,MLG,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,FALSE
+10/3/21,NTN,3079,Brussels Sprouts,10,42.16,NA,10,42.16,46.8,0,0,0.00%,Brussels Sprouts,,,,FALSE,FALSE
+10/3/21,NTN,3171,"Potatoes, Yellow A",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Yellow A,,,FALSE,FALSE
+10/3/21,NTN,3755,Carrots,30,31.62,NA,46,31.62,35.1,0,0,53.30%,Carrots,,,,FALSE,FALSE
+10/3/21,NTN,3807,Cauliflower,23,23,NA,NA,NA,NA,1,0,NA,Cauliflower,,,,FALSE,FALSE
+10/3/21,PBY,3592,Broccoli,42,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,FALSE
+10/3/21,PBY,3613,"Beets Red, bulk",16,26.31,NA,16,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,FALSE,FALSE
+10/3/21,RSV,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/3/21,SEE,3188,"Squash, Winter, Butternut",68,24.65,NA,68,18,19.98,0,0,0.00%,Squash, Winter, Butternut,,TRUE,TRUE
+10/3/21,SGC,3188,"Squash, Winter, Butternut",25,24.65,NA,75,24.65,27.36,0,0,200.00%,Squash, Winter, Butternut,,#N/A,#N/A
+10/3/21,SGC,3189,"Squash, Winter, Delicata",25,35,NA,75,35,38.85,0,0,200.00%,Squash, Winter, Delicata,,#N/A,#N/A
+10/3/21,SGC,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+10/3/21,SXF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/3/21,WKH,3132,"Carrots, Rainbow",72,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+10/3/21,YMF,3079,Brussels Sprouts,30,42.16,NA,29,42.16,46.8,0,0,-3.30%,Brussels Sprouts,,,,FALSE,TRUE
+10/3/21,YMF,3132,"Carrots, Rainbow",12,31.62,NA,27,31.62,35.1,0,0,125.00%,Carrots, Rainbow,,,FALSE,TRUE
+10/3/21,YMF,3189,"Squash, Winter, Delicata",25,35,NA,10,35,38.85,0,0,-60.00%,Squash, Winter, Delicata,,FALSE,TRUE
+10/3/21,YMF,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,TRUE
+10/3/21,YMF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,FALSE,TRUE
+10/10/21,CBS,3188,"Squash, Winter, Butternut",25,24.65,NA,38,24.65,27.36,0,0,52.00%,Squash, Winter, Butternut,,TRUE,TRUE
+10/10/21,CVP,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,FALSE,FALSE
+10/10/21,CVP,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/10/21,D2D,3755,Carrots,30,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,TRUE
+10/10/21,HAF,3755,Carrots,12,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,FALSE
+10/10/21,KSL,3592,Broccoli,20,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,FALSE
+10/10/21,LXF,3132,"Carrots, Rainbow",100,31.62,NA,60,31.62,35.1,0,0,-40.00%,Carrots, Rainbow,,,#N/A,#N/A
+10/10/21,LXF,3166,"Potatoes, Red",10,50,NA,10,50,55.5,0,0,0.00%,Potatoes, Red,,,#N/A,#N/A
+10/10/21,LXF,3613,"Beets Red, bulk",18,26.31,NA,18,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,#N/A,#N/A
+10/10/21,MHG,3178,"Radish, Purple Daikon",25,30,NA,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,TRUE
+10/10/21,MHG,3613,"Beets Red, bulk",16,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,TRUE,TRUE
+10/10/21,MKV,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,#N/A,#N/A
+10/10/21,MLP,3592,Broccoli,20,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,#N/A,#N/A
+10/10/21,NTN,3592,Broccoli,30,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,FALSE
+10/10/21,NTN,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/10/21,PBY,3166,"Potatoes, Red",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Red,,,FALSE,FALSE
+10/10/21,PBY,3592,Broccoli,30,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,FALSE
+10/10/21,PBY,3613,"Beets Red, bulk",16,26.31,NA,16,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,FALSE,FALSE
+10/10/21,RSV,3755,Carrots,15,31.62,NA,30,31.62,35.1,0,0,100.00%,Carrots,,,,FALSE,FALSE
+10/10/21,SGC,3188,"Squash, Winter, Butternut",25,24.65,NA,57,24.65,27.36,0,0,128.00%,Squash, Winter, Butternut,,#N/A,#N/A
+10/10/21,SGC,3592,Broccoli,10,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,#N/A,#N/A
+10/10/21,WKH,3132,"Carrots, Rainbow",60,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+10/10/21,WKH,3592,Broccoli,10,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,#N/A,#N/A
+10/10/21,YMF,3099,Beets Red w/greens,75,36,NA,NA,NA,NA,1,0,NA,Beets Red w/greens,,,,FALSE,TRUE
+10/10/21,YMF,3132,"Carrots, Rainbow",12,31.62,NA,12,31.62,35.1,0,0,0.00%,Carrots, Rainbow,,,FALSE,TRUE
+10/10/21,YMF,3178,"Radish, Purple Daikon",25,30,NA,15,30,33.3,0,0,-40.00%,Radish, Purple Daikon,,,FALSE,TRUE
+10/10/21,YMF,3592,Broccoli,30,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,TRUE
+10/10/21,YMF,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,TRUE
+10/10/21,YMF,3775,Kohlrabi,18,30,NA,NA,NA,NA,1,0,NA,Kohlrabi,,,,FALSE,TRUE
+10/17/21,CBS,3188,"Squash, Winter, Butternut",25,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,TRUE,TRUE
+10/17/21,CLP,3613,"Beets Red, bulk",16,26.31,NA,16,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,TRUE,FALSE
+10/17/21,CVP,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,FALSE,FALSE
+10/17/21,CVP,3755,Carrots,30,31.62,NA,55,31.62,35.1,0,0,83.30%,Carrots,,,,FALSE,FALSE
+10/17/21,D2D,3755,Carrots,30,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,TRUE
+10/17/21,HAF,3755,Carrots,12,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,FALSE
+10/17/21,LKW,3759,Onions,5,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+10/17/21,LXF,3132,"Carrots, Rainbow",60,31.62,NA,60,31.62,35.1,0,0,0.00%,Carrots, Rainbow,,,#N/A,#N/A
+10/17/21,LXF,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,#N/A,#N/A
+10/17/21,LXF,3613,"Beets Red, bulk",18,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,#N/A,#N/A
+10/17/21,MHG,3178,"Radish, Purple Daikon",25,30,NA,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,TRUE
+10/17/21,MHG,3613,"Beets Red, bulk",16,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,TRUE,TRUE
+10/17/21,MKV,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,#N/A,#N/A
+10/17/21,MKV,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+10/17/21,NTN,3171,"Potatoes, Yellow A",10,50,NA,NA,NA,NA,1,0,NA,Potatoes, Yellow A,,,FALSE,FALSE
+10/17/21,NTN,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/17/21,NTN,3759,Onions,10,40,NA,5,40,44.4,0,0,-50.00%,Onions,,,,FALSE,FALSE
+10/17/21,NTN,3807,Cauliflower,23,23,NA,NA,NA,NA,1,0,NA,Cauliflower,,,,FALSE,FALSE
+10/17/21,PBY,3592,Broccoli,42,31.45,NA,NA,NA,NA,1,0,NA,Broccoli,,,,FALSE,FALSE
+10/17/21,PBY,3613,"Beets Red, bulk",16,26.31,NA,16,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,FALSE,FALSE
+10/17/21,PBY,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/17/21,RSV,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/17/21,SEE,3189,"Squash, Winter, Delicata",52,35,NA,24,30,33.3,0,0,-53.80%,Squash, Winter, Delicata,,TRUE,TRUE
+10/17/21,SGC,3188,"Squash, Winter, Butternut",25,24.65,NA,67,24.65,27.36,0,0,168.00%,Squash, Winter, Butternut,,#N/A,#N/A
+10/17/21,SGC,3189,"Squash, Winter, Delicata",25,35,NA,10,35,38.85,0,0,-60.00%,Squash, Winter, Delicata,,#N/A,#N/A
+10/17/21,SGC,3754,Cabbage,10,34,NA,40,34,37.74,0,0,300.00%,Cabbage,,,,#N/A,#N/A
+10/17/21,SGC,3759,Onions,20,40,NA,8,40,44.4,0,0,-60.00%,Onions,,,,#N/A,#N/A
+10/17/21,WKH,3132,"Carrots, Rainbow",60,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+10/17/21,WKH,3759,Onions,20,40,NA,13,40,44.4,0,0,-35.00%,Onions,,,,#N/A,#N/A
+10/17/21,YMF,3132,"Carrots, Rainbow",12,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+10/17/21,YMF,3178,"Radish, Purple Daikon",25,30,NA,26,30,33.3,0,0,4.00%,Radish, Purple Daikon,,,FALSE,TRUE
+10/17/21,YMF,3189,"Squash, Winter, Delicata",25,35,NA,22,35,38.85,0,0,-12.00%,Squash, Winter, Delicata,,FALSE,TRUE
+10/17/21,YMF,3266,"Onions, Scallions",38,28.8,NA,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+10/17/21,YMF,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,TRUE
+10/17/21,YMF,3813,"Greens, Kale",38,36,NA,38,36,39.96,0,0,0.00%,Greens, Kale,,,FALSE,TRUE
+10/17/21,NA,3759,Onions,8,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+10/24/21,CBS,3188,"Squash, Winter, Butternut",25,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,TRUE,TRUE
+10/24/21,CLP,3613,"Beets Red, bulk",16,26.31,NA,16,26.31,29.2,0,0,0.00%,Beets Red, bulk,,,TRUE,FALSE
+10/24/21,CVP,3755,Carrots,30,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+10/24/21,D2D,3755,Carrots,30,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,TRUE
+10/24/21,HAF,3755,Carrots,12,31.62,NA,NA,NA,NA,1,0,NA,Carrots,,,,TRUE,FALSE
+10/24/21,LXF,3132,"Carrots, Rainbow",84,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+10/24/21,LXF,3613,"Beets Red, bulk",18,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,#N/A,#N/A
+10/24/21,MHG,3178,"Radish, Purple Daikon",25,30,NA,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,TRUE
+10/24/21,MHG,3613,"Beets Red, bulk",16,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,TRUE,TRUE
+10/24/21,NTN,3755,Carrots,30,31.62,NA,30,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/24/21,PBY,3613,"Beets Red, bulk",16,26.31,NA,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/24/21,RSV,3755,Carrots,15,31.62,NA,15,31.62,35.1,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/24/21,SGC,3188,"Squash, Winter, Butternut",25,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,#N/A,#N/A
+10/24/21,WKH,3132,"Carrots, Rainbow",72,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+10/24/21,YMF,3132,"Carrots, Rainbow",12,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+10/24/21,YMF,3178,"Radish, Purple Daikon",25,30,NA,29,30,33.3,0,0,16.00%,Radish, Purple Daikon,,,FALSE,TRUE
+10/24/21,YMF,3755,Carrots,15,31.62,NA,13,31.62,35.1,0,0,-13.30%,Carrots,,,,FALSE,TRUE
+10/31/21,AFC,3754,Cabbage,5,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+10/31/21,D2D,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+10/31/21,LXF,3759,Onions,20,40,NA,20,40,44.4,0,0,0.00%,Onions,,,,#N/A,#N/A
+10/31/21,MHG,3178,"Radish, Purple Daikon",25,30,NA,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,TRUE
+10/31/21,MLG,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/31/21,NTN,3754,Cabbage,15,34,NA,15,34,37.74,0,0,0.00%,Cabbage,,,,FALSE,FALSE
+10/31/21,SEE,3188,"Squash, Winter, Butternut",68,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,TRUE,TRUE
+10/31/21,SGC,3189,"Squash, Winter, Delicata",25,35,NA,NA,NA,NA,1,0,NA,Squash, Winter, Delicata,,#N/A,#N/A
+10/31/21,SGC,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,#N/A,#N/A
+10/31/21,SGC,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+10/31/21,SXF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/31/21,YMF,3178,"Radish, Purple Daikon",25,30,NA,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,FALSE,TRUE
+10/31/21,YMF,3189,"Squash, Winter, Delicata",25,35,NA,NA,NA,NA,1,0,NA,Squash, Winter, Delicata,,FALSE,TRUE
+10/31/21,YMF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,TRUE
+11/7/21,AFC,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+11/7/21,CBS,3188,"Squash, Winter, Butternut",25,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,TRUE,TRUE
+11/7/21,D2D,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+11/7/21,LXF,3132,"Carrots, Rainbow",40,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+11/7/21,MKV,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+11/7/21,NTN,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+11/7/21,PBY,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+11/7/21,SEE,3806,"Greens, Lettuce, Head",75,36,NA,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,TRUE,TRUE
+11/7/21,SGC,3188,"Squash, Winter, Butternut",25,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,#N/A,#N/A
+11/7/21,SGC,3754,Cabbage,5,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,#N/A,#N/A
+11/7/21,SGC,3759,Onions,35,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+11/7/21,WKH,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+11/14/21,AFC,3754,Cabbage,5,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+11/14/21,D2D,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+11/14/21,LXF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+11/14/21,MLG,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+11/14/21,NTN,3754,Cabbage,15,34,NA,30,34,37.74,0,0,100.00%,Cabbage,,,,FALSE,FALSE
+11/14/21,SEE,NA,#N/A,75,44.4,NA,NA,NA,NA,1,0,NA,#N/A,,,,TRUE,TRUE
+11/14/21,SGC,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,#N/A,#N/A
+11/14/21,SGC,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,#N/A,#N/A
+11/14/21,SXF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+11/14/21,YMF,3759,Onions,20,40,NA,NA,NA,NA,1,0,NA,Onions,,,,FALSE,TRUE
+11/21/21,AFC,3754,Cabbage,5,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+11/21/21,D2D,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+11/21/21,LXF,3132,"Carrots, Rainbow",24,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+11/21/21,NTN,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+11/21/21,SEE,3188,"Squash, Winter, Butternut",68,24.65,NA,NA,NA,NA,1,0,NA,Squash, Winter, Butternut,,TRUE,TRUE
+11/21/21,SGC,3754,Cabbage,15,34,NA,NA,NA,NA,1,0,NA,Cabbage,,,,#N/A,#N/A
+11/21/21,WKH,3132,"Carrots, Rainbow",12,31.62,NA,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,#N/A,#N/A
+11/28/21,SEE,NA,#N/A,75,44.4,NA,NA,NA,NA,1,0,NA,#N/A,,,,TRUE,TRUE
+6/5/22,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/5/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+6/5/22,CMA,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/5/22,CMU,3266,"Onions, Scallions",12,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/5/22,CVP,3266,"Onions, Scallions",12,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/5/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+6/5/22,KHF,3806,"Greens, Lettuce, Head",15,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,FALSE
+6/5/22,ONC,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/5/22,TEB,3266,"Onions, Scallions",12,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+6/5/22,YMF,3266,"Onions, Scallions",10,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+6/5/22,YMF,3806,"Greens, Lettuce, Head",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+6/12/22,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",15,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/12/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+6/12/22,CMA,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/12/22,CMU,3266,"Onions, Scallions",12,33.75,37.46,12,37.25,41.35,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/12/22,CVP,3266,"Onions, Scallions",12,33.75,37.46,12,37.25,41.35,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/12/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",15,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+6/12/22,KHF,3806,"Greens, Lettuce, Head",15,42.75,47.45,15,42.75,47.45,0,0,0.00%,Greens, Lettuce, Head,,FALSE,FALSE
+6/12/22,ONC,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/12/22,TEB,3266,"Onions, Scallions",12,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+6/12/22,YMF,3266,"Onions, Scallions",10,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+6/12/22,YMF,3806,"Greens, Lettuce, Head",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+6/19/22,CBO,3278,"Radish, Red, Bulk, Bunched w/Tops",5,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+6/19/22,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",15,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/19/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+6/19/22,CMA,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/19/22,CMA,3278,"Radish, Red, Bulk, Bunched w/Tops",5,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+6/19/22,CMU,3266,"Onions, Scallions",12,33.75,37.46,12,37.25,41.35,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/19/22,CVP,3266,"Onions, Scallions",12,33.75,37.46,12,37.25,41.35,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/19/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",5,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+6/19/22,KHF,3806,"Greens, Lettuce, Head",15,42.75,47.45,15,42.75,47.45,0,0,0.00%,Greens, Lettuce, Head,,FALSE,FALSE
+6/19/22,ONC,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/19/22,TEB,3266,"Onions, Scallions",12,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+6/19/22,YMF,3266,"Onions, Scallions",10,33.75,37.46,10,37.25,41.35,0,0,0.00%,Onions, Scallions,,,FALSE,TRUE
+6/19/22,YMF,3806,"Greens, Lettuce, Head",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Lettuce, Head,,FALSE,TRUE
+6/26/22,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,5,43.5,48.29,0,0,-50.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/26/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+6/26/22,CMA,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/26/22,CMU,3266,"Onions, Scallions",12,33.75,37.46,12,33.75,37.46,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+6/26/22,CVP,3266,"Onions, Scallions",12,33.75,37.46,24,33.75,37.46,0,0,100.00%,Onions, Scallions,,,FALSE,FALSE
+6/26/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,15,43.5,48.29,0,0,50.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+6/26/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+6/26/22,KHF,3806,"Greens, Lettuce, Head",15,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,FALSE
+6/26/22,ONC,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+6/26/22,TEB,3266,"Onions, Scallions",12,33.75,37.46,12,33.75,37.46,0,0,0.00%,Onions, Scallions,,,TRUE,FALSE
+6/26/22,YMF,3266,"Onions, Scallions",10,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,TRUE
+6/26/22,YMF,3806,"Greens, Lettuce, Head",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+7/3/22,AFC,3138,"Greens, Collards",8,42.75,47.45,8,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+7/3/22,CBS,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/3/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/3/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,20,43.5,48.29,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/3/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/3/22,CMA,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+7/3/22,CMU,3266,"Onions, Scallions",12,33.75,37.46,10,33.75,37.46,0,0,-16.70%,Onions, Scallions,,,FALSE,FALSE
+7/3/22,CVP,3266,"Onions, Scallions",12,33.75,37.46,12,33.75,37.46,0,0,0.00%,Onions, Scallions,,,FALSE,FALSE
+7/3/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,TRUE
+7/3/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,10,43.5,48.29,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/3/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+7/3/22,KHF,3806,"Greens, Lettuce, Head",15,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,FALSE
+7/3/22,MFP,3573,"Greens, Bok Choy",10,46.25,51.34,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,FALSE,FALSE
+7/3/22,ONC,3266,"Onions, Scallions",5,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,FALSE,FALSE
+7/3/22,PBY,3573,"Greens, Bok Choy",10,46.25,51.34,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,FALSE,FALSE
+7/3/22,TEB,3266,"Onions, Scallions",12,33.75,37.46,NA,NA,NA,1,0,NA,Onions, Scallions,,,TRUE,FALSE
+7/3/22,TEB,3573,"Greens, Bok Choy",10,46.25,51.34,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,TRUE,FALSE
+7/3/22,YMF,3266,"Onions, Scallions",10,33.75,37.46,29,33.75,37.46,0,0,190.00%,Onions, Scallions,,,FALSE,TRUE
+7/3/22,YMF,3806,"Greens, Lettuce, Head",10,42.75,47.45,16,42.75,47.45,0,0,60.00%,Greens, Lettuce, Head,,FALSE,TRUE
+7/10/22,AFC,3138,"Greens, Collards",8,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+7/10/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/10/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,15,43.5,48.29,0,0,-25.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/10/22,CHO,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+7/10/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/10/22,CMA,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+7/10/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,TRUE
+7/10/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,5,43.5,48.29,0,0,-50.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/10/22,HAF,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+7/10/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+7/10/22,KHF,3806,"Greens, Lettuce, Head",15,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,FALSE
+7/10/22,KSL,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/10/22,LDX,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+7/10/22,MHG,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,TRUE
+7/10/22,ONC,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+7/10/22,SXF,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/10/22,YMF,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,TRUE
+7/10/22,YMF,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+7/10/22,YMF,3806,"Greens, Lettuce, Head",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Lettuce, Head,,FALSE,TRUE
+7/17/22,AFC,3138,"Greens, Collards",8,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+7/17/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/17/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,20,43.5,48.29,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/17/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/17/22,CLP,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+7/17/22,CMA,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+7/17/22,CMA,3813,"Greens, Kale",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+7/17/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,TRUE
+7/17/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,10,43.5,48.29,0,0,0.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/17/22,D2D,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,TRUE,TRUE
+7/17/22,HOP,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,TRUE
+7/17/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+7/17/22,JWI,3809,"Beans, Green, Yellow, or Purple",7,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/17/22,JWI,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+7/17/22,LDX,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+7/17/22,LOF,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/17/22,MHA,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/17/22,MLG,3809,"Beans, Green, Yellow, or Purple",5,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/17/22,NTN,3809,"Beans, Green, Yellow, or Purple",15,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/17/22,NTN,3813,"Greens, Kale",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+7/17/22,ONC,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+7/17/22,PBY,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,4,71,78.81,0,0,-60.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/17/22,RSV,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/17/22,RSV,3809,"Beans, Green, Yellow, or Purple",6,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/17/22,TXI,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/17/22,YMF,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+7/24/22,AFC,3138,"Greens, Collards",8,42.75,47.45,8,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+7/24/22,BXF,3138,"Greens, Collards",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,FALSE
+7/24/22,BXF,3669,"Greens, Chard",15,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,TRUE,FALSE
+7/24/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+7/24/22,CBO,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,FALSE,FALSE
+7/24/22,CBO,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+7/24/22,CBO,3669,"Greens, Chard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Chard,,,FALSE,FALSE
+7/24/22,CBO,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+7/24/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/24/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,40,43.5,48.29,0,0,100.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/24/22,CHO,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+7/24/22,CHO,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,TRUE,FALSE
+7/24/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,13,24,26.64,0,0,-27.80%,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/24/22,CLP,3813,"Greens, Kale",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+7/24/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+7/24/22,CMA,3138,"Greens, Collards",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+7/24/22,CMA,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+7/24/22,CMA,3669,"Greens, Chard",5,42.75,47.45,4,42.75,47.45,0,0,-20.00%,Greens, Chard,,,FALSE,FALSE
+7/24/22,CMU,3138,"Greens, Collards",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+7/24/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/24/22,D2D,3138,"Greens, Collards",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+7/24/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,17,24,26.64,0,0,-5.60%,Squash, Summer, Patty Pan,,TRUE,TRUE
+7/24/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,8,43.5,48.29,0,0,-20.00%,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+7/24/22,D2D,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,TRUE,TRUE
+7/24/22,HAF,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+7/24/22,HAF,3809,"Beans, Green, Yellow, or Purple",5,71,78.81,10,71,78.81,0,0,100.00%,Beans, Green, Yellow, or Purple,TRUE,FALSE
+7/24/22,HOP,3099,Beets Red w/greens,20,43.25,48.01,NA,NA,NA,1,0,NA,Beets Red w/greens,,,,FALSE,TRUE
+7/24/22,JWI,3138,"Greens, Collards",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+7/24/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+7/24/22,KSL,3362,"Cucumbers, Pickling",11,24,26.64,11,24,26.64,0,0,0.00%,Cucumbers, Pickling,,,FALSE,FALSE
+7/24/22,LEE,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,#N/A,#N/A
+7/24/22,LOF,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+7/24/22,LVO,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+7/24/22,LVO,3669,"Greens, Chard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,TRUE,TRUE
+7/24/22,MHG,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,TRUE
+7/24/22,MLG,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/24/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/24/22,MMO,3669,"Greens, Chard",15,42.75,47.45,15,42.75,47.45,0,0,0.00%,Greens, Chard,,,FALSE,FALSE
+7/24/22,MMO,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+7/24/22,NTN,3809,"Beans, Green, Yellow, or Purple",15,71,78.81,15,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/24/22,ONC,3669,"Greens, Chard",5,42.75,47.45,4,42.75,47.45,0,0,-20.00%,Greens, Chard,,,FALSE,FALSE
+7/24/22,ONC,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,4,71,78.81,0,0,-60.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/24/22,PBY,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/24/22,RSV,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/24/22,SXF,3362,"Cucumbers, Pickling",11,24,26.64,11,24,26.64,0,0,0.00%,Cucumbers, Pickling,,,FALSE,FALSE
+7/24/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,50,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/24/22,TEB,3099,Beets Red w/greens,10,43.25,48.01,10,43.25,48.01,0,0,0.00%,Beets Red w/greens,,,,TRUE,FALSE
+7/24/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/24/22,YMF,3099,Beets Red w/greens,20,43.25,48.01,18,43.25,48.01,0,0,-10.00%,Beets Red w/greens,,,,FALSE,TRUE
+7/24/22,YMF,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,TRUE
+7/24/22,YMF,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,22,71,78.81,0,0,120.00%,Beans, Green, Yellow, or Purple,FALSE,TRUE
+7/31/22,AFC,3138,"Greens, Collards",8,42.75,47.45,8,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+7/31/22,AGF,3404,Tomatillos,46,32.75,36.35,12,32.75,36.35,0,0,-73.90%,Tomatillos,,,,TRUE,TRUE
+7/31/22,BXF,3138,"Greens, Collards",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,FALSE
+7/31/22,BXF,3669,"Greens, Chard",15,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,TRUE,FALSE
+7/31/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+7/31/22,CBO,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,FALSE,FALSE
+7/31/22,CBO,3669,"Greens, Chard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,FALSE,FALSE
+7/31/22,CBS,3404,Tomatillos,86,32.75,36.35,NA,NA,NA,1,0,NA,Tomatillos,,,,TRUE,TRUE
+7/31/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/31/22,CHO,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,TRUE,FALSE
+7/31/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,15,24,26.64,0,0,-16.70%,Squash, Summer, Patty Pan,,TRUE,FALSE
+7/31/22,CLP,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+7/31/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+7/31/22,CMA,3138,"Greens, Collards",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+7/31/22,CMA,3669,"Greens, Chard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,FALSE,FALSE
+7/31/22,CMA,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,FALSE
+7/31/22,CMU,3138,"Greens, Collards",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+7/31/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/31/22,D2D,3138,"Greens, Collards",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+7/31/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,3,24,26.64,0,0,-83.30%,Squash, Summer, Patty Pan,,TRUE,TRUE
+7/31/22,D2D,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,TRUE,TRUE
+7/31/22,HAF,3809,"Beans, Green, Yellow, or Purple",5,71,78.81,5,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,TRUE,FALSE
+7/31/22,HOP,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,TRUE
+7/31/22,JWI,3138,"Greens, Collards",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Collards,,,FALSE,FALSE
+7/31/22,LDX,3754,Cabbage,5,40.75,45.23,5,40.75,45.23,0,0,0.00%,Cabbage,,,,FALSE,TRUE
+7/31/22,LEE,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,#N/A,#N/A
+7/31/22,LOF,3362,"Cucumbers, Pickling",11,24,26.64,13,24,26.64,0,0,18.20%,Cucumbers, Pickling,,,FALSE,FALSE
+7/31/22,LVO,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+7/31/22,LVO,3669,"Greens, Chard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,TRUE,TRUE
+7/31/22,MHA,3362,"Cucumbers, Pickling",11,24,26.64,6,24,26.64,0,0,-45.50%,Cucumbers, Pickling,,,FALSE,FALSE
+7/31/22,MLG,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,5,71,78.81,0,0,-50.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/31/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/31/22,MMO,3669,"Greens, Chard",15,42.75,47.45,11,42.75,47.45,0,0,-26.70%,Greens, Chard,,,FALSE,FALSE
+7/31/22,NTN,3809,"Beans, Green, Yellow, or Purple",15,71,78.81,15,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/31/22,ONC,3669,"Greens, Chard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Chard,,,FALSE,FALSE
+7/31/22,ONC,3754,Cabbage,5,40.75,45.23,10,40.75,45.23,0,0,100.00%,Cabbage,,,,FALSE,FALSE
+7/31/22,PBY,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/31/22,RSV,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/31/22,RSV,3809,"Beans, Green, Yellow, or Purple",5,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+7/31/22,SRF,3809,"Beans, Green, Yellow, or Purple",15,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,TRUE
+7/31/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,50,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/31/22,TXI,3362,"Cucumbers, Pickling",11,24,26.64,11,24,26.64,0,0,0.00%,Cucumbers, Pickling,,,FALSE,FALSE
+7/31/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/31/22,YMF,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+7/31/22,YMF,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,TRUE
+8/7/22,AFC,3138,"Greens, Collards",8,42.75,47.45,8,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+8/7/22,AGF,3404,Tomatillos,46,32.75,36.35,NA,NA,NA,1,0,NA,Tomatillos,,,,TRUE,TRUE
+8/7/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/7/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,TRUE,TRUE
+8/7/22,CBO,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/7/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,TRUE,TRUE
+8/7/22,CBS,3404,Tomatillos,86,32.75,36.35,17,32.75,36.35,0,0,-80.20%,Tomatillos,,,,TRUE,TRUE
+8/7/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+8/7/22,CHO,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+8/7/22,CHO,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,TRUE,FALSE
+8/7/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,10,24,26.64,0,0,-44.40%,Squash, Summer, Patty Pan,,TRUE,FALSE
+8/7/22,CLP,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,FALSE
+8/7/22,CLP,3813,"Greens, Kale",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+8/7/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/7/22,CMA,3754,Cabbage,5,40.75,45.23,10,40.75,45.23,0,0,100.00%,Cabbage,,,,FALSE,FALSE
+8/7/22,CMA,3813,"Greens, Kale",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+8/7/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/7/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,15,24,26.64,0,0,-16.70%,Squash, Summer, Patty Pan,,TRUE,TRUE
+8/7/22,D2D,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,TRUE,TRUE
+8/7/22,D2D,3813,"Greens, Kale",5,42.75,47.45,7,42.75,47.45,0,0,40.00%,Greens, Kale,,,TRUE,TRUE
+8/7/22,HAF,3362,"Cucumbers, Pickling",11,24,26.64,6,24,26.64,0,0,-45.50%,Cucumbers, Pickling,,,TRUE,FALSE
+8/7/22,HAF,3809,"Beans, Green, Yellow, or Purple",5,71,78.81,5,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,TRUE,FALSE
+8/7/22,JWI,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/7/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,FALSE,FALSE
+8/7/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+8/7/22,KSL,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+8/7/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/7/22,LDX,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+8/7/22,LEE,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,#N/A,#N/A
+8/7/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,15,30,33.3,0,0,50.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/7/22,LOF,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/7/22,MFP,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+8/7/22,MHG,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,TRUE,TRUE
+8/7/22,MLG,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+8/7/22,MLG,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+8/7/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/7/22,MMO,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/7/22,NTN,3809,"Beans, Green, Yellow, or Purple",15,71,78.81,30,71,78.81,0,0,100.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+8/7/22,NTN,3813,"Greens, Kale",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+8/7/22,ONC,3754,Cabbage,5,40.75,45.23,5,40.75,45.23,0,0,0.00%,Cabbage,,,,FALSE,FALSE
+8/7/22,PBY,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,FALSE
+8/7/22,PZM,3153,"Peppers, Jalapeno",10,30,33.3,11,30,33.3,0,0,10.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/7/22,RSV,3809,"Beans, Green, Yellow, or Purple",6,71,78.81,NA,NA,NA,1,0,NA,Beans, Green, Yellow, or Purple,FALSE,FALSE
+8/7/22,SRF,3759,Onions,30,46.25,51.34,70,46.25,51.34,0,0,133.30%,Onions,,,,FALSE,TRUE
+8/7/22,SRF,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,TRUE
+8/7/22,SXF,3362,"Cucumbers, Pickling",11,24,26.64,22,24,26.64,0,0,100.00%,Cucumbers, Pickling,,,FALSE,FALSE
+8/7/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,50,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/7/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/7/22,YMF,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,FALSE,TRUE
+8/7/22,YMF,3809,"Beans, Green, Yellow, or Purple",10,71,78.81,10,71,78.81,0,0,0.00%,Beans, Green, Yellow, or Purple,FALSE,TRUE
+8/14/22,AFC,3138,"Greens, Collards",8,42.75,47.45,8,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+8/14/22,AGF,3089,Melon Watermelon Red Seeded Organic,15,30.75,34.13,NA,NA,NA,1,0,NA,Melon Watermelon Red Seeded Organic,,,,TRUE,TRUE
+8/14/22,AGF,3091,Melon Honeydew Organic,50,31.25,34.69,NA,NA,NA,1,0,NA,Melon Honeydew Organic,,,,TRUE,TRUE
+8/14/22,AGF,3404,Tomatillos,46,32.75,36.35,46,32.75,36.35,0,0,0.00%,Tomatillos,,,,TRUE,TRUE
+8/14/22,BXF,3138,"Greens, Collards",10,42.75,47.45,6,42.75,47.45,0,0,-40.00%,Greens, Collards,,,TRUE,FALSE
+8/14/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+8/14/22,BXF,3702,"Greens, Malabar",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Malabar,,,TRUE,FALSE
+8/14/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/14/22,BXF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/14/22,BXF,3854,"Greens, Pumpkin Vine",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/14/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,13,30,33.3,0,0,8.30%,Peppers, Jalapeno,,,TRUE,TRUE
+8/14/22,CBO,3138,"Greens, Collards",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+8/14/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,23,30,33.3,0,0,91.70%,Peppers, Jalapeno,,,TRUE,TRUE
+8/14/22,CBS,3404,Tomatillos,86,32.75,36.35,243,32.75,36.35,0,0,182.60%,Tomatillos,,,,TRUE,TRUE
+8/14/22,CHO,3182,"Squash, Summer, Patty Pan",22,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,FALSE
+8/14/22,CHO,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/14/22,CHO,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/14/22,CHO,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/14/22,CLP,3182,"Squash, Summer, Patty Pan",18,24,26.64,9,24,26.64,0,0,-50.00%,Squash, Summer, Patty Pan,,TRUE,FALSE
+8/14/22,CLP,3362,"Cucumbers, Pickling",11,24,26.64,7,24,26.64,0,0,-36.40%,Cucumbers, Pickling,,,TRUE,FALSE
+8/14/22,CLP,3668,"Eggplant, Japanese",10,34.25,38.02,25,34.25,38.02,0,0,150.00%,Eggplant, Japanese,,,TRUE,FALSE
+8/14/22,CLP,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/14/22,CLP,3717,"Eggplant, Globe",15,37,41.07,2,37,41.07,0,0,-86.70%,Eggplant, Globe,,,TRUE,FALSE
+8/14/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/14/22,CLP,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/14/22,CLP,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/14/22,CMA,3138,"Greens, Collards",5,42.75,47.45,4,42.75,47.45,0,0,-20.00%,Greens, Collards,,,FALSE,FALSE
+8/14/22,CMU,3138,"Greens, Collards",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+8/14/22,CMU,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+8/14/22,CTH,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/14/22,CVP,3702,"Greens, Malabar",12,36.5,40.52,10,36.5,40.52,0,0,-16.70%,Greens, Malabar,,,FALSE,FALSE
+8/14/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/14/22,D2D,3138,"Greens, Collards",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+8/14/22,D2D,3182,"Squash, Summer, Patty Pan",18,24,26.64,NA,NA,NA,1,0,NA,Squash, Summer, Patty Pan,,TRUE,TRUE
+8/14/22,D2D,3754,Cabbage,5,40.75,45.23,10,40.75,45.23,0,0,100.00%,Cabbage,,,,TRUE,TRUE
+8/14/22,DTF,3202,"Tomatoes, Slicers",51,46,51.06,51,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+8/14/22,HOP,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,TRUE
+8/14/22,HOP,3717,"Eggplant, Globe",10,37,41.07,10,37,41.07,0,0,0.00%,Eggplant, Globe,,,FALSE,TRUE
+8/14/22,JWI,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,FALSE,FALSE
+8/14/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,49,30,33.3,0,0,308.30%,Peppers, Jalapeno,,,FALSE,FALSE
+8/14/22,KHF,3202,"Tomatoes, Slicers",36,46,51.06,39,46,51.06,0,0,8.30%,Tomatoes, Slicers,,,FALSE,FALSE
+8/14/22,KHF,3668,"Eggplant, Japanese",10,34.25,38.02,16,34.25,38.02,0,0,60.00%,Eggplant, Japanese,,,FALSE,FALSE
+8/14/22,KSL,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/14/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/14/22,KSL,3828,"Peppers, Bell",15,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,FALSE,FALSE
+8/14/22,KSL,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/14/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/14/22,LEE,3828,"Peppers, Bell",5,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,#N/A,#N/A
+8/14/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,19,30,33.3,0,0,90.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/14/22,LFF,3828,"Peppers, Bell",25,40.75,45.23,22,40.75,45.23,0,0,-12.00%,Peppers, Bell,,,FALSE,TRUE
+8/14/22,LOF,3362,"Cucumbers, Pickling",11,24,26.64,11,24,26.64,0,0,0.00%,Cucumbers, Pickling,,,FALSE,FALSE
+8/14/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+8/14/22,LVO,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+8/14/22,MFP,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+8/14/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/14/22,MHA,3362,"Cucumbers, Pickling",11,24,26.64,11,24,26.64,0,0,0.00%,Cucumbers, Pickling,,,FALSE,FALSE
+8/14/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/14/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/14/22,MLG,3702,"Greens, Malabar",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+8/14/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/14/22,MLG,3854,"Greens, Pumpkin Vine",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/14/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/14/22,PBY,3089,Melon Watermelon Red Seeded Organic,10,30.75,34.13,NA,NA,NA,1,0,NA,Melon Watermelon Red Seeded Organic,,,,FALSE,FALSE
+8/14/22,PBY,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/14/22,PBY,3668,"Eggplant, Japanese",10,34.25,38.02,10,34.25,38.02,0,0,0.00%,Eggplant, Japanese,,,FALSE,FALSE
+8/14/22,PBY,3717,"Eggplant, Globe",15,37,41.07,15,37,41.07,0,0,0.00%,Eggplant, Globe,,,FALSE,FALSE
+8/14/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/14/22,PLT,3668,"Eggplant, Japanese",10,34.25,38.02,10,34.25,38.02,0,0,0.00%,Eggplant, Japanese,,,FALSE,FALSE
+8/14/22,PLT,3702,"Greens, Malabar",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+8/14/22,PLT,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,20,36.5,40.52,0,0,0.00%,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+8/14/22,PLT,3854,"Greens, Pumpkin Vine",26,36.5,40.52,14,36.5,40.52,0,0,-46.20%,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/14/22,PZM,3828,"Peppers, Bell",5,40.75,45.23,13,40.75,45.23,0,0,160.00%,Peppers, Bell,,,FALSE,TRUE
+8/14/22,RSV,3362,"Cucumbers, Pickling",11,24,26.64,NA,NA,NA,1,0,NA,Cucumbers, Pickling,,,FALSE,FALSE
+8/14/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,50,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/14/22,TXI,3362,"Cucumbers, Pickling",11,24,26.64,10,24,26.64,0,0,-9.10%,Cucumbers, Pickling,,,FALSE,FALSE
+8/14/22,TXI,3702,"Greens, Malabar",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+8/14/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/14/22,TXI,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/14/22,YMF,3668,"Eggplant, Japanese",10,34.25,38.02,10,34.25,38.02,0,0,0.00%,Eggplant, Japanese,,,FALSE,TRUE
+8/14/22,YMF,3702,"Greens, Malabar",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,TRUE
+8/14/22,YMF,3717,"Eggplant, Globe",10,37,41.07,10,37,41.07,0,0,0.00%,Eggplant, Globe,,,FALSE,TRUE
+8/14/22,YMF,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,20,36.5,40.52,0,0,0.00%,Greens, Eggplant Leaves - 12 bunch,,,FALSE,TRUE
+8/21/22,AGF,3089,Melon Watermelon Red Seeded Organic,40,30.75,34.13,NA,NA,NA,1,0,NA,Melon Watermelon Red Seeded Organic,,,,TRUE,TRUE
+8/21/22,AGF,3201,"Tomatoes, Roma",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+8/21/22,AGF,3404,Tomatillos,46,32.75,36.35,46,32.75,36.35,0,0,0.00%,Tomatillos,,,,TRUE,TRUE
+8/21/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+8/21/22,BXF,3702,"Greens, Malabar",12,36.5,40.52,11,36.5,40.52,0,0,-8.30%,Greens, Malabar,,,TRUE,FALSE
+8/21/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/21/22,BXF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/21/22,BXF,3854,"Greens, Pumpkin Vine",12,36.5,40.52,7,36.5,40.52,0,0,-41.70%,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/21/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,11,30,33.3,0,0,-8.30%,Peppers, Jalapeno,,,TRUE,TRUE
+8/21/22,CBO,3813,"Greens, Kale",5,42.75,47.45,7,42.75,47.45,0,0,40.00%,Greens, Kale,,,FALSE,FALSE
+8/21/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/21/22,CBS,3201,"Tomatoes, Roma",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+8/21/22,CBS,3404,Tomatillos,86,32.75,36.35,86,32.75,36.35,0,0,0.00%,Tomatillos,,,,TRUE,TRUE
+8/21/22,CHO,3200,"Tomatoes, Grape",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,FALSE
+8/21/22,CHO,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+8/21/22,CHO,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/21/22,CHO,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/21/22,CHO,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/21/22,CLP,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/21/22,CLP,3813,"Greens, Kale",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Kale,,,TRUE,FALSE
+8/21/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/21/22,CLP,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/21/22,CLP,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/21/22,CMA,3813,"Greens, Kale",5,42.75,47.45,3,42.75,47.45,0,0,-40.00%,Greens, Kale,,,FALSE,FALSE
+8/21/22,CTH,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/21/22,CVP,3702,"Greens, Malabar",12,36.5,40.52,13,36.5,40.52,0,0,8.30%,Greens, Malabar,,,FALSE,FALSE
+8/21/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,11,35.25,39.13,0,0,10.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/21/22,D2D,3200,"Tomatoes, Grape",10,40.5,44.96,26,40.5,44.96,0,0,160.00%,Tomatoes, Grape,,,TRUE,TRUE
+8/21/22,D2D,3754,Cabbage,5,40.75,45.23,5,40.75,45.23,0,0,0.00%,Cabbage,,,,TRUE,TRUE
+8/21/22,D2D,3813,"Greens, Kale",5,42.75,47.45,9,42.75,47.45,0,0,80.00%,Greens, Kale,,,TRUE,TRUE
+8/21/22,DTF,3202,"Tomatoes, Slicers",36,46,51.06,36,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+8/21/22,HAF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,TRUE,FALSE
+8/21/22,JWI,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/21/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,23,30,33.3,0,0,91.70%,Peppers, Jalapeno,,,FALSE,FALSE
+8/21/22,KHF,3201,"Tomatoes, Roma",36,40.5,44.96,30,40.5,44.96,0,0,-16.70%,Tomatoes, Roma,,,FALSE,FALSE
+8/21/22,KHF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,10,36.5,40.52,0,0,-33.30%,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+8/21/22,KSL,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/21/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/21/22,KSL,3828,"Peppers, Bell",10,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,FALSE,FALSE
+8/21/22,KSL,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/21/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,21,30,33.3,0,0,110.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/21/22,LDX,3458,"Peppers, Habanero",11,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+8/21/22,LEE,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,#N/A,#N/A
+8/21/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,15,30,33.3,0,0,50.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/21/22,LFF,3458,"Peppers, Habanero",25,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+8/21/22,LFF,3828,"Peppers, Bell",25,40.75,45.23,25,40.75,45.23,0,0,0.00%,Peppers, Bell,,,FALSE,TRUE
+8/21/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/21/22,LOF,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/21/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+8/21/22,MFP,3828,"Peppers, Bell",5,40.75,45.23,12,40.75,45.23,0,0,140.00%,Peppers, Bell,,,FALSE,FALSE
+8/21/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/21/22,MHG,3200,"Tomatoes, Grape",10,40.5,44.96,9,40.5,44.96,0,0,-10.00%,Tomatoes, Grape,,,TRUE,TRUE
+8/21/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/21/22,MLG,3702,"Greens, Malabar",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+8/21/22,MLG,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/21/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/21/22,MLG,3854,"Greens, Pumpkin Vine",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/21/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/21/22,MMO,3813,"Greens, Kale",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+8/21/22,NTN,3813,"Greens, Kale",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+8/21/22,PBY,3089,Melon Watermelon Red Seeded Organic,10,30.75,34.13,NA,NA,NA,1,0,NA,Melon Watermelon Red Seeded Organic,,,,FALSE,FALSE
+8/21/22,PBY,3201,"Tomatoes, Roma",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,FALSE,FALSE
+8/21/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+8/21/22,PLT,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+8/21/22,PLT,3702,"Greens, Malabar",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+8/21/22,PLT,3758,"Eggplant, African (Bitter ball)",22,24,26.64,22,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/21/22,PLT,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,20,36.5,40.52,0,0,0.00%,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+8/21/22,PLT,3854,"Greens, Pumpkin Vine",26,36.5,40.52,24,36.5,40.52,0,0,-7.70%,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/21/22,PZM,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/21/22,PZM,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+8/21/22,SXF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/21/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,50,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/21/22,TXI,3702,"Greens, Malabar",12,36.5,40.52,27,36.5,40.52,0,0,125.00%,Greens, Malabar,,,FALSE,FALSE
+8/21/22,TXI,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/21/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,25,35.25,39.13,0,0,150.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/21/22,TXI,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/21/22,YMF,3200,"Tomatoes, Grape",18,40.5,44.96,18,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,FALSE,TRUE
+8/21/22,YMF,3702,"Greens, Malabar",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,TRUE
+8/21/22,YMF,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,FALSE,TRUE
+8/28/22,AGF,3404,Tomatillos,46,32.75,36.35,NA,NA,NA,1,0,NA,Tomatillos,,,,TRUE,TRUE
+8/28/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+8/28/22,BXF,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/28/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/28/22,BXF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/28/22,BXF,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/28/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/28/22,CAL,3201,"Tomatoes, Roma",15,40.5,44.96,15,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,TRUE,TRUE
+8/28/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+8/28/22,CBS,3201,"Tomatoes, Roma",15,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+8/28/22,CBS,3404,Tomatillos,86,32.75,36.35,66,32.75,36.35,0,0,-23.30%,Tomatillos,,,,TRUE,TRUE
+8/28/22,CHO,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+8/28/22,CHO,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/28/22,CHO,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/28/22,CHO,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/28/22,CLP,3668,"Eggplant, Japanese",10,34.25,38.02,NA,NA,NA,1,0,NA,Eggplant, Japanese,,,TRUE,FALSE
+8/28/22,CLP,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+8/28/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+8/28/22,CLP,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+8/28/22,CLP,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/28/22,CMU,3132,"Carrots, Rainbow",11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+8/28/22,CTH,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/28/22,CVP,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,FALSE,FALSE
+8/28/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/28/22,D2D,3754,Cabbage,5,40.75,45.23,5,40.75,45.23,0,0,0.00%,Cabbage,,,,TRUE,TRUE
+8/28/22,DTF,3202,"Tomatoes, Slicers",36,46,51.06,36,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+8/28/22,HAF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,TRUE,FALSE
+8/28/22,KAL,3132,"Carrots, Rainbow",22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+8/28/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,13,30,33.3,0,0,8.30%,Peppers, Jalapeno,,,FALSE,FALSE
+8/28/22,KHF,3668,"Eggplant, Japanese",10,34.25,38.02,NA,NA,NA,1,0,NA,Eggplant, Japanese,,,FALSE,FALSE
+8/28/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+8/28/22,KHF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+8/28/22,KSL,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+8/28/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/28/22,KSL,3828,"Peppers, Bell",10,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,FALSE,FALSE
+8/28/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/28/22,LDX,3458,"Peppers, Habanero",11,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+8/28/22,LEE,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,#N/A,#N/A
+8/28/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+8/28/22,LFF,3458,"Peppers, Habanero",25,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+8/28/22,LFF,3828,"Peppers, Bell",20,40.75,45.23,10,40.75,45.23,0,0,-50.00%,Peppers, Bell,,,FALSE,TRUE
+8/28/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/28/22,MFP,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+8/28/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+8/28/22,MFP,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+8/28/22,MFP,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+8/28/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/28/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+8/28/22,MLG,3702,"Greens, Malabar",14,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,FALSE,FALSE
+8/28/22,MLG,3758,"Eggplant, African (Bitter ball)",11,24,26.64,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/28/22,MLG,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+8/28/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/28/22,MLG,3854,"Greens, Pumpkin Vine",14,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/28/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/28/22,PBY,3201,"Tomatoes, Roma",18,40.5,44.96,18,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,FALSE
+8/28/22,PBY,3668,"Eggplant, Japanese",10,34.25,38.02,NA,NA,NA,1,0,NA,Eggplant, Japanese,,,FALSE,FALSE
+8/28/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+8/28/22,PLT,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+8/28/22,PLT,3668,"Eggplant, Japanese",10,34.25,38.02,NA,NA,NA,1,0,NA,Eggplant, Japanese,,,FALSE,FALSE
+8/28/22,PLT,3702,"Greens, Malabar",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+8/28/22,PLT,3758,"Eggplant, African (Bitter ball)",22,24,26.64,22,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/28/22,PLT,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+8/28/22,PLT,3854,"Greens, Pumpkin Vine",26,36.5,40.52,14,36.5,40.52,0,0,-46.20%,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/28/22,PZM,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,FALSE,TRUE
+8/28/22,RSV,3755,Carrots,22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+8/28/22,SRF,3201,"Tomatoes, Roma",18,40.5,44.96,18,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,TRUE
+8/28/22,SRF,3759,Onions,30,46.25,51.34,50,46.25,51.34,0,0,66.70%,Onions,,,,FALSE,TRUE
+8/28/22,SXF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/28/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/28/22,TEB,3854,"Greens, Pumpkin Vine",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Pumpkin Vine,,,TRUE,FALSE
+8/28/22,TXI,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,FALSE,FALSE
+8/28/22,TXI,3758,"Eggplant, African (Bitter ball)",11,24,26.64,22,24,26.64,0,0,100.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+8/28/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+8/28/22,TXI,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+8/28/22,YMF,3132,"Carrots, Rainbow",11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+8/28/22,YMF,3668,"Eggplant, Japanese",10,34.25,38.02,NA,NA,NA,1,0,NA,Eggplant, Japanese,,,FALSE,TRUE
+8/28/22,YMF,3702,"Greens, Malabar",14,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,FALSE,TRUE
+8/28/22,YMF,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,FALSE,TRUE
+9/4/22,AGF,3201,"Tomatoes, Roma",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/4/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+9/4/22,BXF,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+9/4/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+9/4/22,BXF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+9/4/22,BXF,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+9/4/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,TRUE,TRUE
+9/4/22,CBO,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+9/4/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/4/22,CBS,3201,"Tomatoes, Roma",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/4/22,CHO,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+9/4/22,CHO,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+9/4/22,CHO,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+9/4/22,CHO,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+9/4/22,CLP,3702,"Greens, Malabar",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Malabar,,,TRUE,FALSE
+9/4/22,CLP,3717,"Eggplant, Globe",10,37,41.07,10,37,41.07,0,0,0.00%,Eggplant, Globe,,,TRUE,FALSE
+9/4/22,CLP,3813,"Greens, Kale",10,42.75,47.45,5,42.75,47.45,0,0,-50.00%,Greens, Kale,,,TRUE,FALSE
+9/4/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+9/4/22,CLP,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,TRUE,FALSE
+9/4/22,CLP,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,TRUE,FALSE
+9/4/22,CMA,3813,"Greens, Kale",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+9/4/22,CMU,3755,Carrots,33,36.75,40.79,22,36.75,40.79,0,0,-33.30%,Carrots,,,,FALSE,FALSE
+9/4/22,CVP,3702,"Greens, Malabar",12,36.5,40.52,24,36.5,40.52,0,0,100.00%,Greens, Malabar,,,FALSE,FALSE
+9/4/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/4/22,D2D,3754,Cabbage,5,40.75,45.23,NA,NA,NA,1,0,NA,Cabbage,,,,TRUE,TRUE
+9/4/22,D2D,3813,"Greens, Kale",5,42.75,47.45,8,42.75,47.45,0,0,60.00%,Greens, Kale,,,TRUE,TRUE
+9/4/22,DTF,3202,"Tomatoes, Slicers",36,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,TRUE,FALSE
+9/4/22,HAF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,TRUE,FALSE
+9/4/22,HOP,3717,"Eggplant, Globe",10,37,41.07,10,37,41.07,0,0,0.00%,Eggplant, Globe,,,FALSE,TRUE
+9/4/22,JWI,3813,"Greens, Kale",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Kale,,,FALSE,FALSE
+9/4/22,KAL,3755,Carrots,22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+9/4/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+9/4/22,KHF,3201,"Tomatoes, Roma",36,40.5,44.96,36,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,FALSE
+9/4/22,KHF,3202,"Tomatoes, Slicers",30,46,51.06,49,46,51.06,0,0,63.30%,Tomatoes, Slicers,,,FALSE,FALSE
+9/4/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+9/4/22,KHF,3853,"Greens, Eggplant Leaves - 12 bunch",15,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+9/4/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/4/22,KSL,3828,"Peppers, Bell",10,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,FALSE,FALSE
+9/4/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,FALSE,TRUE
+9/4/22,LDX,3458,"Peppers, Habanero",11,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+9/4/22,LEE,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,#N/A,#N/A
+9/4/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+9/4/22,LFF,3458,"Peppers, Habanero",25,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+9/4/22,LFF,3828,"Peppers, Bell",20,40.75,45.23,15,40.75,45.23,0,0,-25.00%,Peppers, Bell,,,FALSE,TRUE
+9/4/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/4/22,LOF,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+9/4/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/4/22,MFP,3759,Onions,10,46.25,51.34,20,46.25,51.34,0,0,100.00%,Onions,,,,FALSE,FALSE
+9/4/22,MFP,3828,"Peppers, Bell",8,40.75,45.23,6,40.75,45.23,0,0,-25.00%,Peppers, Bell,,,FALSE,FALSE
+9/4/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/4/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/4/22,MLG,3702,"Greens, Malabar",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+9/4/22,MLG,3755,Carrots,22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/4/22,MLG,3758,"Eggplant, African (Bitter ball)",11,24,26.64,26,24,26.64,0,0,136.40%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/4/22,MLG,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+9/4/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/4/22,MLG,3854,"Greens, Pumpkin Vine",14,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+9/4/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Mustard,,,FALSE,FALSE
+9/4/22,MMO,3813,"Greens, Kale",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+9/4/22,NTN,3755,Carrots,22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/4/22,NTN,3813,"Greens, Kale",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Kale,,,FALSE,FALSE
+9/4/22,PBY,3201,"Tomatoes, Roma",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,FALSE
+9/4/22,PBY,3717,"Eggplant, Globe",15,37,41.07,15,37,41.07,0,0,0.00%,Eggplant, Globe,,,FALSE,FALSE
+9/4/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/4/22,PLT,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+9/4/22,PLT,3702,"Greens, Malabar",12,36.5,40.52,49,36.5,40.52,0,0,308.30%,Greens, Malabar,,,FALSE,FALSE
+9/4/22,PLT,3758,"Eggplant, African (Bitter ball)",22,24,26.64,22,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/4/22,PLT,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,20,36.5,40.52,0,0,0.00%,Greens, Eggplant Leaves - 12 bunch,,,FALSE,FALSE
+9/4/22,PLT,3854,"Greens, Pumpkin Vine",26,36.5,40.52,20,36.5,40.52,0,0,-23.10%,Greens, Pumpkin Vine,,,FALSE,FALSE
+9/4/22,PZM,3153,"Peppers, Jalapeno",10,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,FALSE,TRUE
+9/4/22,PZM,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+9/4/22,RSV,3755,Carrots,22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/4/22,SRF,3759,Onions,30,46.25,51.34,70,46.25,51.34,0,0,133.30%,Onions,,,,FALSE,TRUE
+9/4/22,SXF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/4/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,100,35.25,39.13,0,0,100.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/4/22,TEB,3854,"Greens, Pumpkin Vine",12,36.5,40.52,10,36.5,40.52,0,0,-16.70%,Greens, Pumpkin Vine,,,TRUE,FALSE
+9/4/22,TXI,3702,"Greens, Malabar",12,36.5,40.52,12,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,FALSE
+9/4/22,TXI,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/4/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/4/22,TXI,3854,"Greens, Pumpkin Vine",12,36.5,40.52,NA,NA,NA,1,0,NA,Greens, Pumpkin Vine,,,FALSE,FALSE
+9/4/22,YMF,3702,"Greens, Malabar",14,36.5,40.52,14,36.5,40.52,0,0,0.00%,Greens, Malabar,,,FALSE,TRUE
+9/4/22,YMF,3717,"Eggplant, Globe",10,37,41.07,10,37,41.07,0,0,0.00%,Eggplant, Globe,,,FALSE,TRUE
+9/4/22,YMF,3755,Carrots,11,36.75,40.79,22,36.75,40.79,0,0,100.00%,Carrots,,,,FALSE,TRUE
+9/4/22,YMF,3853,"Greens, Eggplant Leaves - 12 bunch",20,36.5,40.52,40,36.5,40.52,0,0,100.00%,Greens, Eggplant Leaves - 12 bunch,,,FALSE,TRUE
+9/11/22,AGF,3759,Onions,20,46.25,51.34,20,46.25,51.34,0,0,0.00%,Onions,,,,TRUE,TRUE
+9/11/22,BXF,3138,"Greens, Collards",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,FALSE
+9/11/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+9/11/22,BXF,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,NA,NA,NA,1,0,NA,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+9/11/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,TRUE,TRUE
+9/11/22,CAL,3201,"Tomatoes, Roma",15,40.5,44.96,10,40.5,44.96,0,0,-33.30%,Tomatoes, Roma,,,TRUE,TRUE
+9/11/22,CAL,3759,Onions,20,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,TRUE,TRUE
+9/11/22,CBO,3138,"Greens, Collards",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+9/11/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,24,30,33.3,0,0,100.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/11/22,CBS,3201,"Tomatoes, Roma",24,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/11/22,CHO,3200,"Tomatoes, Grape",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,TRUE,FALSE
+9/11/22,CHO,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+9/11/22,CLP,3668,"Eggplant, Japanese",10,34.25,38.02,10,34.25,38.02,0,0,0.00%,Eggplant, Japanese,,,TRUE,FALSE
+9/11/22,CLP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,13,35.25,39.13,0,0,30.00%,Greens, Sweet Potato Leaves,,,TRUE,FALSE
+9/11/22,CMA,3138,"Greens, Collards",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Collards,,,FALSE,FALSE
+9/11/22,CMU,3132,"Carrots, Rainbow",11,36.75,40.79,11,36.75,40.79,0,0,0.00%,Carrots, Rainbow,,,FALSE,FALSE
+9/11/22,CMU,3138,"Greens, Collards",10,42.75,47.45,5,42.75,47.45,0,0,-50.00%,Greens, Collards,,,FALSE,FALSE
+9/11/22,CMU,3755,Carrots,11,36.75,40.79,10,36.75,40.79,0,0,-9.10%,Carrots,,,,FALSE,FALSE
+9/11/22,CTH,3202,"Tomatoes, Slicers",15,46,51.06,15,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/11/22,CVP,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/11/22,D2D,3138,"Greens, Collards",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Collards,,,TRUE,TRUE
+9/11/22,D2D,3200,"Tomatoes, Grape",10,40.5,44.96,20,40.5,44.96,0,0,100.00%,Tomatoes, Grape,,,TRUE,TRUE
+9/11/22,DTF,3202,"Tomatoes, Slicers",36,46,51.06,36,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/11/22,HAF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,21,24,26.64,0,0,90.90%,Eggplant, African (Bitter ball),,,TRUE,FALSE
+9/11/22,JWI,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,FALSE,FALSE
+9/11/22,KAL,3132,"Carrots, Rainbow",22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+9/11/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,FALSE,FALSE
+9/11/22,KHF,3668,"Eggplant, Japanese",10,34.25,38.02,NA,NA,NA,1,0,NA,Eggplant, Japanese,,,FALSE,FALSE
+9/11/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+9/11/22,KSL,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+9/11/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/11/22,KSL,3828,"Peppers, Bell",10,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,FALSE,FALSE
+9/11/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+9/11/22,LDX,3458,"Peppers, Habanero",11,40.5,44.96,11,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,TRUE
+9/11/22,LEE,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,#N/A,#N/A
+9/11/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,15,30,33.3,0,0,50.00%,Peppers, Jalapeno,,,FALSE,TRUE
+9/11/22,LFF,3458,"Peppers, Habanero",25,40.5,44.96,3,40.5,44.96,0,0,-88.00%,Peppers, Habanero,,,FALSE,TRUE
+9/11/22,LFF,3828,"Peppers, Bell",20,40.75,45.23,10,40.75,45.23,0,0,-50.00%,Peppers, Bell,,,FALSE,TRUE
+9/11/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/11/22,LVO,3138,"Greens, Collards",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Collards,,,TRUE,TRUE
+9/11/22,MFP,3153,"Peppers, Jalapeno",10,30,33.3,20,30,33.3,0,0,100.00%,Peppers, Jalapeno,,,FALSE,FALSE
+9/11/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/11/22,MFP,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+9/11/22,MFP,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+9/11/22,MFP,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,FALSE,FALSE
+9/11/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/11/22,MHG,3200,"Tomatoes, Grape",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,TRUE,TRUE
+9/11/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/11/22,MLG,3755,Carrots,22,36.75,40.79,27,36.75,40.79,0,0,22.70%,Carrots,,,,FALSE,FALSE
+9/11/22,MLG,3758,"Eggplant, African (Bitter ball)",11,24,26.64,6,24,26.64,0,0,-45.50%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/11/22,MLG,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+9/11/22,MLG,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,10,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/11/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Mustard,,,FALSE,FALSE
+9/11/22,PBY,3201,"Tomatoes, Roma",9,40.5,44.96,14,40.5,44.96,0,0,55.60%,Tomatoes, Roma,,,FALSE,FALSE
+9/11/22,PBY,3592,Broccoli,27,37,41.07,16,37,41.07,0,0,-40.70%,Broccoli,,,,FALSE,FALSE
+9/11/22,PBY,3668,"Eggplant, Japanese",10,34.25,38.02,10,34.25,38.02,0,0,0.00%,Eggplant, Japanese,,,FALSE,FALSE
+9/11/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/11/22,PLT,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+9/11/22,PLT,3668,"Eggplant, Japanese",10,34.25,38.02,10,34.25,38.02,0,0,0.00%,Eggplant, Japanese,,,FALSE,FALSE
+9/11/22,PLT,3758,"Eggplant, African (Bitter ball)",22,24,26.64,22,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/11/22,RSV,3755,Carrots,32,36.75,40.79,32,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+9/11/22,SRF,3201,"Tomatoes, Roma",18,40.5,44.96,18,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,TRUE
+9/11/22,SRF,3759,Onions,30,46.25,51.34,30,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,TRUE
+9/11/22,SXF,3758,"Eggplant, African (Bitter ball)",11,24,26.64,11,24,26.64,0,0,0.00%,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/11/22,SXF,3826,"Greens, Sweet Potato Leaves",50,35.25,39.13,50,35.25,39.13,0,0,0.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/11/22,TXI,3758,"Eggplant, African (Bitter ball)",11,24,26.64,NA,NA,NA,1,0,NA,Eggplant, African (Bitter ball),,,FALSE,FALSE
+9/11/22,TXI,3826,"Greens, Sweet Potato Leaves",10,35.25,39.13,5,35.25,39.13,0,0,-50.00%,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+9/11/22,YMF,3132,"Carrots, Rainbow",11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+9/11/22,YMF,3200,"Tomatoes, Grape",18,40.5,44.96,18,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,FALSE,TRUE
+9/11/22,YMF,3668,"Eggplant, Japanese",10,34.25,38.02,23,34.25,38.02,0,0,130.00%,Eggplant, Japanese,,,FALSE,TRUE
+9/11/22,YMF,3755,Carrots,11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,TRUE
+9/18/22,AGF,3189,"Squash, Winter, Delicata",90,40.75,45.23,90,40.75,45.23,0,0,0.00%,Squash, Winter, Delicata,,TRUE,TRUE
+9/18/22,AGF,3201,"Tomatoes, Roma",10,40.5,44.96,20,40.5,44.96,0,0,100.00%,Tomatoes, Roma,,,TRUE,TRUE
+9/18/22,AGF,3759,Onions,20,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,TRUE,TRUE
+9/18/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+9/18/22,CAL,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,TRUE,TRUE
+9/18/22,CAL,3189,"Squash, Winter, Delicata",60,40.75,45.23,60,40.75,45.23,0,0,0.00%,Squash, Winter, Delicata,,TRUE,TRUE
+9/18/22,CAL,3759,Onions,20,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,TRUE,TRUE
+9/18/22,CBS,3153,"Peppers, Jalapeno",12,30,33.3,NA,NA,NA,1,0,NA,Peppers, Jalapeno,,,TRUE,TRUE
+9/18/22,CBS,3201,"Tomatoes, Roma",25,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/18/22,CHO,3200,"Tomatoes, Grape",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,TRUE,FALSE
+9/18/22,CHO,3458,"Peppers, Habanero",10,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,TRUE,FALSE
+9/18/22,CTH,3202,"Tomatoes, Slicers",15,46,51.06,15,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,FALSE,FALSE
+9/18/22,D2D,3200,"Tomatoes, Grape",10,40.5,44.96,18,40.5,44.96,0,0,80.00%,Tomatoes, Grape,,,TRUE,TRUE
+9/18/22,DTF,3202,"Tomatoes, Slicers",36,46,51.06,36,46,51.06,0,0,0.00%,Tomatoes, Slicers,,,TRUE,FALSE
+9/18/22,KHF,3153,"Peppers, Jalapeno",12,30,33.3,12,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,FALSE
+9/18/22,KHF,3201,"Tomatoes, Roma",36,40.5,44.96,36,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,FALSE
+9/18/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+9/18/22,KSL,3202,"Tomatoes, Slicers",15,46,51.06,NA,NA,NA,1,0,NA,Tomatoes, Slicers,,,FALSE,FALSE
+9/18/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/18/22,KSL,3828,"Peppers, Bell",10,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,FALSE,FALSE
+9/18/22,LDX,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+9/18/22,LDX,3458,"Peppers, Habanero",11,40.5,44.96,NA,NA,NA,1,0,NA,Peppers, Habanero,,,FALSE,TRUE
+9/18/22,LEE,3828,"Peppers, Bell",10,40.75,45.23,NA,NA,NA,1,0,NA,Peppers, Bell,,,#N/A,#N/A
+9/18/22,LFF,3153,"Peppers, Jalapeno",10,30,33.3,10,30,33.3,0,0,0.00%,Peppers, Jalapeno,,,FALSE,TRUE
+9/18/22,LFF,3458,"Peppers, Habanero",25,40.5,44.96,5,40.5,44.96,0,0,-80.00%,Peppers, Habanero,,,FALSE,TRUE
+9/18/22,LFF,3828,"Peppers, Bell",20,40.75,45.23,5,40.75,45.23,0,0,-75.00%,Peppers, Bell,,,FALSE,TRUE
+9/18/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/18/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/18/22,MFP,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+9/18/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+9/18/22,MHG,3200,"Tomatoes, Grape",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,TRUE,TRUE
+9/18/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,10,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/18/22,MLG,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+9/18/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Mustard,,,FALSE,FALSE
+9/18/22,PBY,3201,"Tomatoes, Roma",10,40.5,44.96,35,40.5,44.96,0,0,250.00%,Tomatoes, Roma,,,FALSE,FALSE
+9/18/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,5,42.75,47.45,0,0,0.00%,Greens, Mustard,,,FALSE,FALSE
+9/18/22,PLT,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,FALSE
+9/18/22,PZM,3153,"Peppers, Jalapeno",10,30,33.3,13,30,33.3,0,0,30.00%,Peppers, Jalapeno,,,FALSE,TRUE
+9/18/22,PZM,3458,"Peppers, Habanero",10,40.5,44.96,10,40.5,44.96,0,0,0.00%,Peppers, Habanero,,,FALSE,TRUE
+9/18/22,PZM,3828,"Peppers, Bell",10,40.75,45.23,10,40.75,45.23,0,0,0.00%,Peppers, Bell,,,FALSE,TRUE
+9/18/22,SRF,3759,Onions,30,46.25,51.34,30,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,TRUE
+9/18/22,YMF,3200,"Tomatoes, Grape",18,40.5,44.96,18,40.5,44.96,0,0,0.00%,Tomatoes, Grape,,,FALSE,TRUE
+9/25/22,AGF,3189,"Squash, Winter, Delicata",60,40.75,45.23,45,40.75,45.23,0,0,-25.00%,Squash, Winter, Delicata,,TRUE,TRUE
+9/25/22,AGF,3449,"Peppers, Poblano",10,46.25,51.34,NA,NA,NA,1,0,NA,Peppers, Poblano,,,TRUE,TRUE
+9/25/22,CAL,3189,"Squash, Winter, Delicata",65,40.75,45.23,65,40.75,45.23,0,0,0.00%,Squash, Winter, Delicata,,TRUE,TRUE
+9/25/22,CBS,3201,"Tomatoes, Roma",14,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,TRUE,TRUE
+9/25/22,CHO,3200,"Tomatoes, Grape",10,40.5,44.96,20,40.5,44.96,0,0,100.00%,Tomatoes, Grape,,,TRUE,FALSE
+9/25/22,CHO,3449,"Peppers, Poblano",10,46.25,51.34,NA,NA,NA,1,0,NA,Peppers, Poblano,,,TRUE,FALSE
+9/25/22,D2D,3200,"Tomatoes, Grape",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+9/25/22,KHF,3201,"Tomatoes, Roma",18,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Roma,,,FALSE,FALSE
+9/25/22,MFP,3573,"Greens, Bok Choy",10,46.25,51.34,30,46.25,51.34,0,0,200.00%,Greens, Bok Choy,,,FALSE,FALSE
+9/25/22,MHG,3200,"Tomatoes, Grape",10,40.5,44.96,NA,NA,NA,1,0,NA,Tomatoes, Grape,,,TRUE,TRUE
+9/25/22,NTN,3449,"Peppers, Poblano",20,46.25,51.34,20,46.25,51.34,0,0,0.00%,Peppers, Poblano,,,FALSE,FALSE
+9/25/22,PBY,3189,"Squash, Winter, Delicata",25,40.75,45.23,25,40.75,45.23,0,0,0.00%,Squash, Winter, Delicata,,FALSE,FALSE
+9/25/22,PBY,3201,"Tomatoes, Roma",9,40.5,44.96,9,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,FALSE
+9/25/22,PBY,3573,"Greens, Bok Choy",10,46.25,51.34,20,46.25,51.34,0,0,100.00%,Greens, Bok Choy,,,FALSE,FALSE
+9/25/22,PZM,3449,"Peppers, Poblano",10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Peppers, Poblano,,,FALSE,TRUE
+9/25/22,PZM,3573,"Greens, Bok Choy",10,46.25,51.34,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,FALSE,TRUE
+9/25/22,SRF,3201,"Tomatoes, Roma",30,40.5,44.96,30,40.5,44.96,0,0,0.00%,Tomatoes, Roma,,,FALSE,TRUE
+9/25/22,TEB,3573,"Greens, Bok Choy",10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Greens, Bok Choy,,,TRUE,FALSE
+9/25/22,YMF,3200,"Tomatoes, Grape",18,40.5,44.96,16,40.5,44.96,0,0,-11.10%,Tomatoes, Grape,,,FALSE,TRUE
+10/2/22,AGF,3189,"Squash, Winter, Delicata",90,40.75,45.23,NA,NA,NA,1,0,NA,Squash, Winter, Delicata,,TRUE,TRUE
+10/2/22,AGF,3759,Onions,20,46.25,51.34,13,46.25,51.34,0,0,-35.00%,Onions,,,,TRUE,TRUE
+10/2/22,BXF,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,TRUE,FALSE
+10/2/22,CAL,3189,"Squash, Winter, Delicata",60,40.75,45.23,21,40.75,45.23,0,0,-65.00%,Squash, Winter, Delicata,,TRUE,TRUE
+10/2/22,CAL,3759,Onions,20,46.25,51.34,39,46.25,51.34,0,0,95.00%,Onions,,,,TRUE,TRUE
+10/2/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",20,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+10/2/22,CLP,3613,"Beets Red, bulk",11,31,34.41,22,31,34.41,0,0,100.00%,Beets Red, bulk,,,TRUE,FALSE
+10/2/22,CMU,3132,"Carrots, Rainbow",11,36.75,40.79,22,36.75,40.79,0,0,100.00%,Carrots, Rainbow,,,FALSE,FALSE
+10/2/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,NA,NA,NA,1,0,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,TRUE
+10/2/22,JWI,3278,"Radish, Red, Bulk, Bunched w/Tops",10,43.5,48.29,20,43.5,48.29,0,0,100.00%,Radish, Red, Bulk, Bunched w/Tops,FALSE,FALSE
+10/2/22,KAL,3132,"Carrots, Rainbow",22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+10/2/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/2/22,KSL,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+10/2/22,KSL,3613,"Beets Red, bulk",11,31,34.41,11,31,34.41,0,0,0.00%,Beets Red, bulk,,,FALSE,FALSE
+10/2/22,LOF,3364,"Greens, Mustard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Mustard,,,FALSE,FALSE
+10/2/22,MFP,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+10/2/22,MFP,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/2/22,MHA,3364,"Greens, Mustard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Mustard,,,FALSE,FALSE
+10/2/22,MLG,3364,"Greens, Mustard",10,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+10/2/22,MLG,3759,Onions,10,46.25,51.34,5,46.25,51.34,0,0,-50.00%,Onions,,,,FALSE,FALSE
+10/2/22,MMO,3364,"Greens, Mustard",5,42.75,47.45,10,42.75,47.45,0,0,100.00%,Greens, Mustard,,,FALSE,FALSE
+10/2/22,NTN,3613,"Beets Red, bulk",11,31,34.41,23,31,34.41,0,0,109.10%,Beets Red, bulk,,,FALSE,FALSE
+10/2/22,PBY,3613,"Beets Red, bulk",11,31,34.41,44,31,34.41,0,0,300.00%,Beets Red, bulk,,,FALSE,FALSE
+10/2/22,PLT,3364,"Greens, Mustard",5,42.75,47.45,NA,NA,NA,1,0,NA,Greens, Mustard,,,FALSE,FALSE
+10/2/22,RSV,3755,Carrots,22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/2/22,SRF,3759,Onions,30,46.25,51.34,50,46.25,51.34,0,0,66.70%,Onions,,,,FALSE,TRUE
+10/2/22,YMF,3132,"Carrots, Rainbow",11,36.75,40.79,22,36.75,40.79,0,0,100.00%,Carrots, Rainbow,,,FALSE,TRUE
+10/2/22,YMF,3613,"Beets Red, bulk",11,31,34.41,22,31,34.41,0,0,100.00%,Beets Red, bulk,,,FALSE,TRUE
+10/9/22,AGF,3759,Onions,20,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,TRUE,TRUE
+10/9/22,CAL,3759,Onions,20,46.25,51.34,20,46.25,51.34,0,0,0.00%,Onions,,,,TRUE,TRUE
+10/9/22,CLP,3613,"Beets Red, bulk",11,31,34.41,11,31,34.41,0,0,0.00%,Beets Red, bulk,,,TRUE,FALSE
+10/9/22,HAF,3178,"Radish, Purple Daikon",22,39,43.29,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,FALSE
+10/9/22,KAL,3132,"Carrots, Rainbow",22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+10/9/22,KHF,3759,Onions,10,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,FALSE
+10/9/22,KSL,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/9/22,MFP,3573,"Greens, Bok Choy",10,46.25,51.34,30,46.25,51.34,0,0,200.00%,Greens, Bok Choy,,,FALSE,FALSE
+10/9/22,MFP,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+10/9/22,MLG,3759,Onions,10,46.25,51.34,10,46.25,51.34,0,0,0.00%,Onions,,,,FALSE,FALSE
+10/9/22,NTN,3613,"Beets Red, bulk",11,31,34.41,11,31,34.41,0,0,0.00%,Beets Red, bulk,,,FALSE,FALSE
+10/9/22,PBY,3573,"Greens, Bok Choy",10,46.25,51.34,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,FALSE,FALSE
+10/9/22,PBY,3613,"Beets Red, bulk",11,31,34.41,22,31,34.41,0,0,100.00%,Beets Red, bulk,,,FALSE,FALSE
+10/9/22,PZM,3573,"Greens, Bok Choy",28,46.25,51.34,NA,NA,NA,1,0,NA,Greens, Bok Choy,,,FALSE,TRUE
+10/9/22,RSV,3755,Carrots,22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots,,,,FALSE,FALSE
+10/9/22,SRF,3759,Onions,30,46.25,51.34,NA,NA,NA,1,0,NA,Onions,,,,FALSE,TRUE
+10/9/22,TEB,3573,"Greens, Bok Choy",10,46.25,51.34,20,46.25,51.34,0,0,100.00%,Greens, Bok Choy,,,TRUE,FALSE
+10/9/22,YMF,3132,"Carrots, Rainbow",22,36.75,40.79,22,36.75,40.79,0,0,0.00%,Carrots, Rainbow,,,FALSE,TRUE
+10/9/22,YMF,3178,"Radish, Purple Daikon",22,39,43.29,44,39,43.29,0,0,100.00%,Radish, Purple Daikon,,,FALSE,TRUE
+10/9/22,YMF,3613,"Beets Red, bulk",11,31,34.41,11,31,34.41,0,0,0.00%,Beets Red, bulk,,,FALSE,TRUE
+10/16/22,CLP,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,TRUE,FALSE
+10/16/22,CMU,3132,"Carrots, Rainbow",11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+10/16/22,CMU,3755,Carrots,11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+10/16/22,HAF,3178,"Radish, Purple Daikon",22,39,43.29,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,FALSE
+10/16/22,KSL,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/16/22,MLG,3755,Carrots,22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+10/16/22,NTN,3132,"Carrots, Rainbow",22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+10/16/22,NTN,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/16/22,NTN,3755,Carrots,22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+10/16/22,PBY,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/16/22,YMF,3132,"Carrots, Rainbow",33,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+10/16/22,YMF,3178,"Radish, Purple Daikon",22,39,43.29,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,FALSE,TRUE
+10/16/22,YMF,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,TRUE
+10/16/22,YMF,3755,Carrots,11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,TRUE
+10/23/22,CLP,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,TRUE,FALSE
+10/23/22,CMU,3132,"Carrots, Rainbow",11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+10/23/22,HAF,3178,"Radish, Purple Daikon",22,39,43.29,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,TRUE,FALSE
+10/23/22,KSL,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/23/22,NTN,3132,"Carrots, Rainbow",11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,FALSE
+10/23/22,NTN,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/23/22,PBY,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,FALSE
+10/23/22,RSV,3755,Carrots,11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+10/23/22,YMF,3132,"Carrots, Rainbow",33,36.75,40.79,NA,NA,NA,1,0,NA,Carrots, Rainbow,,,FALSE,TRUE
+10/23/22,YMF,3178,"Radish, Purple Daikon",22,39,43.29,NA,NA,NA,1,0,NA,Radish, Purple Daikon,,,FALSE,TRUE
+10/23/22,YMF,3613,"Beets Red, bulk",11,31,34.41,NA,NA,NA,1,0,NA,Beets Red, bulk,,,FALSE,TRUE
+10/30/22,D2D,NA,#N/A,22,36.5,40.52,NA,NA,NA,1,0,NA,#N/A,,,,TRUE,TRUE
+11/6/22,CMU,3755,Carrots,11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+11/6/22,MLG,3755,Carrots,22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+11/6/22,NTN,3755,Carrots,22,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,FALSE
+11/6/22,YMF,3755,Carrots,11,36.75,40.79,NA,NA,NA,1,0,NA,Carrots,,,,FALSE,TRUE
+6/6/21,POG,3819,"Greens, Salad Mix - 24 ct 0.75lb",NA,NA,NA,19,84,93.24,0,1,NA,Greens, Salad Mix - 24 ct 0.75lb,,,#N/A,#N/A
+6/6/21,STF,3806,"Greens, Lettuce, Head",NA,NA,NA,38,36,39.96,0,1,NA,Greens, Lettuce, Head,,#N/A,#N/A
+6/13/21,D2D,3252,"Radish, French Breakfast",NA,NA,NA,19,36,39.96,0,1,NA,Radish, French Breakfast,,,TRUE,TRUE
+6/13/21,LXF,3304,Garlic Scapes,NA,NA,NA,30,48,53.28,0,1,NA,Garlic Scapes,,,,#N/A,#N/A
+6/13/21,NTN,3813,"Greens, Kale",NA,NA,NA,14,36,39.96,0,1,NA,Greens, Kale,,,FALSE,FALSE
+6/13/21,POG,3140,"Kohlrabi, White",NA,NA,NA,36,46.8,51.48,0,1,NA,Kohlrabi, White,,,#N/A,#N/A
+6/13/21,STF,3806,"Greens, Lettuce, Head",NA,NA,NA,15,36,39.96,0,1,NA,Greens, Lettuce, Head,,#N/A,#N/A
+6/13/21,WKH,3573,"Greens, Bok Choy",NA,NA,NA,19,40,44.4,0,1,NA,Greens, Bok Choy,,,#N/A,#N/A
+6/20/21,SEE,3813,"Greens, Kale",NA,NA,NA,38,24,26.64,0,1,NA,Greens, Kale,,,TRUE,TRUE
+6/20/21,STF,3806,"Greens, Lettuce, Head",NA,NA,NA,15,36,39.96,0,1,NA,Greens, Lettuce, Head,,#N/A,#N/A
+6/27/21,LXF,3390,"Potatoes, New Red",NA,NA,NA,28,100,111,0,1,NA,Potatoes, New Red,,,#N/A,#N/A
+6/27/21,NTN,3813,"Greens, Kale",NA,NA,NA,30,36,39.96,0,1,NA,Greens, Kale,,,FALSE,FALSE
+6/27/21,SEE,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,40,25,27.75,0,1,NA,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/4/21,LXF,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,15,25,27.75,0,1,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/4/21,MHG,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,11,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,TRUE,TRUE
+7/4/21,MLF,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,5,33.75,37.46,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+7/4/21,SGC,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,20,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/4/21,WKH,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,20,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/4/21,YMF,3216,Rhubarb,NA,NA,NA,27,56.25,62.44,0,1,NA,Rhubarb,,,,FALSE,TRUE
+7/11/21,CHO,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,10,24,26.64,0,1,NA,Squash, Summer Green Zucchini, Organic,,TRUE,FALSE
+7/11/21,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,7,33.75,37.46,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/11/21,HAF,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,20,35,38.85,0,1,NA,Squash, Summer Green Zucchini, Organic,,TRUE,FALSE
+7/11/21,MKV,3754,Cabbage,NA,NA,NA,4,34,37.74,0,1,NA,Cabbage,,,,#N/A,#N/A
+7/11/21,SEE,3361,"Cucumbers, Slicing",NA,NA,NA,16,25,27.75,0,1,NA,Cucumbers, Slicing,,,TRUE,TRUE
+7/11/21,SEE,3579,"Celery, Organic",NA,NA,NA,24,66.66,73.99,0,1,NA,Celery, Organic,,,TRUE,TRUE
+7/11/21,SGC,3806,"Greens, Lettuce, Head",NA,NA,NA,8,36,39.96,0,1,NA,Greens, Lettuce, Head,,#N/A,#N/A
+7/11/21,WKH,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,39,33.75,37.46,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,#N/A,#N/A
+7/18/21,CHO,3401,"Beans, Green",NA,NA,NA,31,62.5,69.38,0,1,NA,Beans, Green,,,TRUE,FALSE
+7/18/21,D2D,3754,Cabbage,NA,NA,NA,7,34,37.74,0,1,NA,Cabbage,,,,TRUE,TRUE
+7/18/21,MKV,3401,"Beans, Green",NA,NA,NA,7,62.5,69.38,0,1,NA,Beans, Green,,,#N/A,#N/A
+7/18/21,MKV,3756,Cucumbers,NA,NA,NA,16,20,22.2,0,1,NA,Cucumbers,,,,#N/A,#N/A
+7/18/21,MKV,3775,Kohlrabi,NA,NA,NA,16,30,33.3,0,1,NA,Kohlrabi,,,,#N/A,#N/A
+7/18/21,MLG,3401,"Beans, Green",NA,NA,NA,15,62.5,69.38,0,1,NA,Beans, Green,,,FALSE,FALSE
+7/18/21,PBY,3361,"Cucumbers, Slicing",NA,NA,NA,13,20,22.2,0,1,NA,Cucumbers, Slicing,,,FALSE,FALSE
+7/18/21,PBY,3401,"Beans, Green",NA,NA,NA,13,62.5,69.38,0,1,NA,Beans, Green,,,FALSE,FALSE
+7/18/21,PBY,3573,"Greens, Bok Choy",NA,NA,NA,10,40,44.4,0,1,NA,Greens, Bok Choy,,,FALSE,FALSE
+7/18/21,PBY,3592,Broccoli,NA,NA,NA,12,31.45,34.91,0,1,NA,Broccoli,,,,FALSE,FALSE
+7/18/21,POG,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,30,25,27.75,0,1,NA,Squash, Summer Green Zucchini, Organic,,#N/A,#N/A
+7/18/21,STF,3401,"Beans, Green",NA,NA,NA,7,62.5,69.38,0,1,NA,Beans, Green,,,#N/A,#N/A
+7/18/21,STF,3573,"Greens, Bok Choy",NA,NA,NA,20,40,44.4,0,1,NA,Greens, Bok Choy,,,#N/A,#N/A
+7/18/21,YMF,3401,"Beans, Green",NA,NA,NA,18,62.5,69.38,0,1,NA,Beans, Green,,,FALSE,TRUE
+7/18/21,YMF,3592,Broccoli,NA,NA,NA,20,31.45,34.91,0,1,NA,Broccoli,,,,FALSE,TRUE
+7/25/21,CHO,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,66,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,TRUE,FALSE
+7/25/21,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,60,33.75,37.46,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,TRUE,FALSE
+7/25/21,CHO,3401,"Beans, Green",NA,NA,NA,30,62.5,69.38,0,1,NA,Beans, Green,,,TRUE,FALSE
+7/25/21,CHO,3669,"Greens, Chard",NA,NA,NA,34,36,39.96,0,1,NA,Greens, Chard,,,TRUE,FALSE
+7/25/21,NTN,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,10,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,FALSE,FALSE
+7/25/21,PBY,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,21,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,FALSE,FALSE
+7/25/21,PBY,3362,"Cucumbers, Pickling",NA,NA,NA,32,20,22.2,0,1,NA,Cucumbers, Pickling,,,FALSE,FALSE
+7/25/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,FALSE,FALSE
+7/25/21,WKH,3202,"Tomatoes, Slicers",NA,NA,NA,12,40,44.4,0,1,NA,Tomatoes, Slicers,,,#N/A,#N/A
+7/25/21,WKH,3806,"Greens, Lettuce, Head",NA,NA,NA,21,36,39.96,0,1,NA,Greens, Lettuce, Head,,#N/A,#N/A
+7/25/21,YMF,3099,Beets Red w/greens,NA,NA,NA,21,36,39.96,0,1,NA,Beets Red w/greens,,,,FALSE,TRUE
+7/25/21,YMF,3401,"Beans, Green",NA,NA,NA,20,62.5,69.38,0,1,NA,Beans, Green,,,FALSE,TRUE
+8/1/21,CBS,3153,"Peppers, Jalapeno",NA,NA,NA,14,25.5,28.31,0,1,NA,Peppers, Jalapeno,,,TRUE,TRUE
+8/1/21,CHO,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,30,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,TRUE,FALSE
+8/1/21,CHO,3401,"Beans, Green",NA,NA,NA,20,62.5,69.38,0,1,NA,Beans, Green,,,TRUE,FALSE
+8/1/21,CHO,3669,"Greens, Chard",NA,NA,NA,20,36,39.96,0,1,NA,Greens, Chard,,,TRUE,FALSE
+8/1/21,LXF,3362,"Cucumbers, Pickling",NA,NA,NA,30,20,22.2,0,1,NA,Cucumbers, Pickling,,,#N/A,#N/A
+8/1/21,MKV,3759,Onions,NA,NA,NA,20,40,44.4,0,1,NA,Onions,,,,#N/A,#N/A
+8/1/21,SEE,3242,"Greens, Lettuce, Romaine, Green, Organic",NA,NA,NA,34,30,38.63,0,1,NA,Greens, Lettuce, Romaine, Green,TRUE,TRUE
+8/1/21,SEE,3828,"Peppers, Bell",NA,NA,NA,37,30.25,33.58,0,1,NA,Peppers, Bell,,,,TRUE
+8/1/21,SGC,3754,Cabbage,NA,NA,NA,7,34,37.74,0,1,NA,Cabbage,,,,,#N/A
+8/1/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+8/1/21,YMF,3361,"Cucumbers, Slicing",NA,NA,NA,7,20,22.2,0,1,NA,Cucumbers, Slicing,,,,TRUE
+8/8/21,CBS,3153,"Peppers, Jalapeno",NA,NA,NA,66,25.5,28.31,0,1,NA,Peppers, Jalapeno,,,,TRUE
+8/8/21,CHO,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,45,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,,FALSE
+8/8/21,MHG,3153,"Peppers, Jalapeno",NA,NA,NA,8,25.5,28.31,0,1,NA,Peppers, Jalapeno,,,,TRUE
+8/8/21,MLG,3758,"Eggplant, African (Bitter ball)",NA,NA,NA,33,20,22.2,0,1,NA,Eggplant, African (Bitter ball),,,,FALSE
+8/8/21,SEE,3202,"Tomatoes, Slicers",NA,NA,NA,40,34,37.74,0,1,NA,Tomatoes, Slicers,,,,TRUE
+8/8/21,SGC,3153,"Peppers, Jalapeno",NA,NA,NA,10,25.5,28.31,0,1,NA,Peppers, Jalapeno,,,,#N/A
+8/8/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+8/15/21,MKV,3405,Okra,NA,NA,NA,36,51,56.61,0,1,NA,Okra,,,,,#N/A
+8/15/21,MLG,3757,Eggplant,NA,NA,NA,15,31.62,35.1,0,1,NA,Eggplant,,,,,FALSE
+8/15/21,SEE,3828,"Peppers, Bell",NA,NA,NA,33,30.25,33.58,0,1,NA,Peppers, Bell,,,,TRUE
+8/15/21,SGC,3089,Melon Watermelon Red Seeded Organic,NA,NA,NA,6,420,466.2,0,1,NA,Melon Watermelon Red Seeded Organic,,,,,#N/A
+8/15/21,SGC,3091,Melon Honeydew Organic,NA,NA,NA,30,26.25,29.14,0,1,NA,Melon Honeydew Organic,,,,,#N/A
+8/15/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+8/15/21,YMF,3202,"Tomatoes, Slicers",NA,NA,NA,20,40,44.4,0,1,NA,Tomatoes, Slicers,,,,TRUE
+8/22/21,D2D,3200,"Tomatoes, Grape",NA,NA,NA,11,35,38.85,0,1,NA,Tomatoes, Grape,,,,TRUE
+8/22/21,HAF,3700,"Greens, Spinach, Chinese (water spinach)",NA,NA,NA,38,24,26.64,0,1,NA,Greens, Spinach, Chinese (water spinach),,,FALSE
+8/22/21,KHF,3200,"Tomatoes, Grape",NA,NA,NA,11,35,38.85,0,1,NA,Tomatoes, Grape,,,,FALSE
+8/22/21,KHF,3201,"Tomatoes, Roma",NA,NA,NA,20,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+8/22/21,KHF,3458,"Peppers, Habanero",NA,NA,NA,5,35,38.85,0,1,NA,Peppers, Habanero,,,,FALSE
+8/22/21,KHF,3828,"Peppers, Bell",NA,NA,NA,39,35,38.85,0,1,NA,Peppers, Bell,,,,FALSE
+8/22/21,LXF,3166,"Potatoes, Red",NA,NA,NA,30,50,55.5,0,1,NA,Potatoes, Red,,,,#N/A
+8/22/21,LXF,3449,"Peppers, Poblano",NA,NA,NA,45,40,44.4,0,1,NA,Peppers, Poblano,,,,#N/A
+8/22/21,PBY,3592,Broccoli,NA,NA,NA,30,31.45,34.91,0,1,NA,Broccoli,,,,,FALSE
+8/22/21,POG,3717,"Eggplant, Globe",NA,NA,NA,40,31.62,35.1,0,1,NA,Eggplant, Globe,,,,#N/A
+8/22/21,SGC,3089,Melon Watermelon Red Seeded Organic,NA,NA,NA,3,420,466.2,0,1,NA,Melon Watermelon Red Seeded Organic,,,,,#N/A
+8/22/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+8/29/21,CHO,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,10,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,,FALSE
+8/29/21,KHF,3201,"Tomatoes, Roma",NA,NA,NA,20,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+8/29/21,LXF,3828,"Peppers, Bell",NA,NA,NA,36,35,38.85,0,1,NA,Peppers, Bell,,,,#N/A
+8/29/21,MKV,3405,Okra,NA,NA,NA,30,51,56.61,0,1,NA,Okra,,,,,#N/A
+8/29/21,MLP,3202,"Tomatoes, Slicers",NA,NA,NA,10,40,44.4,0,1,NA,Tomatoes, Slicers,,,,#N/A
+8/29/21,PBY,3202,"Tomatoes, Slicers",NA,NA,NA,10,40,44.4,0,1,NA,Tomatoes, Slicers,,,,FALSE
+8/29/21,PBY,3592,Broccoli,NA,NA,NA,18,31.45,34.91,0,1,NA,Broccoli,,,,,FALSE
+8/29/21,SEE,3828,"Peppers, Bell",NA,NA,NA,33,30.25,33.58,0,1,NA,Peppers, Bell,,,,TRUE
+8/29/21,SGC,3134,"Sweet Corn, Organic",NA,NA,NA,67,27,29.97,0,1,NA,Sweet Corn, Organic,,,,#N/A
+8/29/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+8/29/21,YMF,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,7,20,22.2,0,1,NA,Squash, Summer Green Zucchini, Organic,,,TRUE
+9/5/21,KHF,3201,"Tomatoes, Roma",NA,NA,NA,20,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+9/5/21,NTN,3813,"Greens, Kale",NA,NA,NA,8,36,39.96,0,1,NA,Greens, Kale,,,,FALSE
+9/5/21,SEE,3202,"Tomatoes, Slicers",NA,NA,NA,29,34,37.74,0,1,NA,Tomatoes, Slicers,,,,TRUE
+9/5/21,SGC,3135,Sweet Corn,NA,NA,NA,293,27,29.97,0,1,NA,Sweet Corn,,,,,#N/A
+9/5/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+9/5/21,YMF,3401,"Beans, Green",NA,NA,NA,20,62.5,69.38,0,1,NA,Beans, Green,,,,TRUE
+9/12/21,KHF,3201,"Tomatoes, Roma",NA,NA,NA,32,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+9/12/21,NTN,3813,"Greens, Kale",NA,NA,NA,2,36,39.96,0,1,NA,Greens, Kale,,,,FALSE
+9/12/21,PBY,3201,"Tomatoes, Roma",NA,NA,NA,32,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+9/12/21,SEE,3828,"Peppers, Bell",NA,NA,NA,32,35,38.85,0,1,NA,Peppers, Bell,,,,TRUE
+9/12/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+9/12/21,YMF,3828,"Peppers, Bell",NA,NA,NA,3,35,38.85,0,1,NA,Peppers, Bell,,,,TRUE
+9/19/21,AFC,3138,"Greens, Collards",NA,NA,NA,10,36,39.96,0,1,NA,Greens, Collards,,,,TRUE
+9/19/21,D2D,3401,"Beans, Green",NA,NA,NA,3,62.5,69.38,0,1,NA,Beans, Green,,,,TRUE
+9/19/21,KHF,3201,"Tomatoes, Roma",NA,NA,NA,26,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+9/19/21,MHG,3153,"Peppers, Jalapeno",NA,NA,NA,8,25.5,28.31,0,1,NA,Peppers, Jalapeno,,,,TRUE
+9/19/21,MKV,3401,"Beans, Green",NA,NA,NA,12,62.5,69.38,0,1,NA,Beans, Green,,,,#N/A
+9/19/21,MKV,3458,"Peppers, Habanero",NA,NA,NA,25,35,38.85,0,1,NA,Peppers, Habanero,,,,#N/A
+9/19/21,SXF,3826,"Greens, Sweet Potato Leaves",NA,NA,NA,50,30,33.3,0,1,NA,Greens, Sweet Potato Leaves,,,,FALSE
+9/26/21,AFC,3138,"Greens, Collards",NA,NA,NA,8,36,39.96,0,1,NA,Greens, Collards,,,,TRUE
+9/26/21,KHF,3201,"Tomatoes, Roma",NA,NA,NA,26,35,38.85,0,1,NA,Tomatoes, Roma,,,,FALSE
+9/26/21,KHF,3202,"Tomatoes, Slicers",NA,NA,NA,20,40,44.4,0,1,NA,Tomatoes, Slicers,,,,FALSE
+9/26/21,LXF,3828,"Peppers, Bell",NA,NA,NA,16,35,38.85,0,1,NA,Peppers, Bell,,,,#N/A
+9/26/21,MKV,3828,"Peppers, Bell",NA,NA,NA,27,40,44.4,0,1,NA,Peppers, Bell,,,,#N/A
+9/26/21,SEE,3759,Onions,NA,NA,NA,18,40,44.4,0,1,NA,Onions,,,,,TRUE
+9/26/21,STF,3401,"Beans, Green",NA,NA,NA,16,62.5,69.38,0,1,NA,Beans, Green,,,,#N/A
+9/26/21,STF,3807,Cauliflower,NA,NA,NA,50,23,25.53,0,1,NA,Cauliflower,,,,,#N/A
+9/26/21,WKH,3411,"Greens, Bok Choy, Baby",NA,NA,NA,34,54,59.94,0,1,NA,Greens, Bok Choy, Baby,,,#N/A
+10/3/21,CBS,3404,Tomatillos,NA,NA,NA,20,28,31.08,0,1,NA,Tomatillos,,,,,TRUE
+10/3/21,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,15,33.75,37.46,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,TRUE
+10/3/21,KSL,3754,Cabbage,NA,NA,NA,17,29.08,32.28,0,1,NA,Cabbage,,,,,FALSE
+10/3/21,MHG,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,12,33.75,37.46,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,TRUE
+10/3/21,NTN,3754,Cabbage,NA,NA,NA,57,34,37.74,0,1,NA,Cabbage,,,,,FALSE
+10/10/21,LXF,3828,"Peppers, Bell",NA,NA,NA,35,35,38.85,0,1,NA,Peppers, Bell,,,,#N/A
+10/10/21,MHG,3828,"Peppers, Bell",NA,NA,NA,20,35,38.85,0,1,NA,Peppers, Bell,,,,TRUE
+10/10/21,MLG,3759,Onions,NA,NA,NA,40,40,44.4,0,1,NA,Onions,,,,,FALSE
+10/10/21,NTN,3613,"Beets Red, bulk",NA,NA,NA,32,26.31,29.2,0,1,NA,Beets Red, bulk,,,,FALSE
+10/10/21,POG,3190,"Squash, Winter, Spaghetti",NA,NA,NA,63,33.25,36.91,0,1,NA,Squash, Winter, Spaghetti,,,#N/A
+10/10/21,SEE,3828,"Peppers, Bell",NA,NA,NA,32,30.25,33.58,0,1,NA,Peppers, Bell,,,,TRUE
+10/10/21,WKH,3598,"Greens, Lettuce, Romaine",NA,NA,NA,33,31.5,34.97,0,1,NA,Greens, Lettuce, Romaine,,,#N/A
+10/17/21,LXF,3166,"Potatoes, Red",NA,NA,NA,10,50,55.5,0,1,NA,Potatoes, Red,,,,#N/A
+10/17/21,NTN,3166,"Potatoes, Red",NA,NA,NA,10,50,55.5,0,1,NA,Potatoes, Red,,,,FALSE
+10/17/21,SEE,3188,"Squash, Winter, Butternut",NA,NA,NA,32,18,19.98,0,1,NA,Squash, Winter, Butternut,,,TRUE
+10/17/21,SGC,3768,"Cranberries, organic",NA,NA,NA,63,25,27.75,0,1,NA,Cranberries, organic,,,,#N/A
+10/17/21,WKH,3573,"Greens, Bok Choy",NA,NA,NA,20,40,44.4,0,1,NA,Greens, Bok Choy,,,,#N/A
+10/24/21,LXF,3449,"Peppers, Poblano",NA,NA,NA,30,40,44.4,0,1,NA,Peppers, Poblano,,,,#N/A
+10/24/21,LXF,3828,"Peppers, Bell",NA,NA,NA,50,35,38.85,0,1,NA,Peppers, Bell,,,,#N/A
+10/24/21,PBY,3828,"Peppers, Bell",NA,NA,NA,50,35,38.85,0,1,NA,Peppers, Bell,,,,FALSE
+10/24/21,SEE,3188,"Squash, Winter, Butternut",NA,NA,NA,30,18,19.98,0,1,NA,Squash, Winter, Butternut,,,TRUE
+10/24/21,WKH,3598,"Greens, Lettuce, Romaine",NA,NA,NA,84,31.5,34.97,0,1,NA,Greens, Lettuce, Romaine,,,#N/A
+10/31/21,POG,3544,"Squash, Winter, Acorn",NA,NA,NA,85,35,38.85,0,1,NA,Squash, Winter, Acorn,,,#N/A
+10/31/21,SEE,3105,"Cabbage, Green, Organic",NA,NA,NA,30,23,25.53,0,1,NA,Cabbage, Green, Organic,,,TRUE
+10/31/21,SGC,3188,"Squash, Winter, Butternut",NA,NA,NA,25,24.65,27.36,0,1,NA,Squash, Winter, Butternut,,,#N/A
+10/31/21,SGC,3190,"Squash, Winter, Spaghetti",NA,NA,NA,50,24.65,27.36,0,1,NA,Squash, Winter, Spaghetti,,,#N/A
+10/31/21,WKH,3300,"Greens, Lettuce, Salad Mix",NA,NA,NA,26,60,66.6,0,1,NA,Greens, Lettuce, Salad Mix,,,#N/A
+10/31/21,WKH,3316,"Greens, Lettuce, Green Leaf",NA,NA,NA,26,36,39.96,0,1,NA,Greens, Lettuce, Green Leaf,,,#N/A
+11/7/21,SEE,3141,"Onions, Red, Organic",NA,NA,NA,9,50,55.5,0,1,NA,Onions, Red, Organic,,,TRUE
+11/7/21,SEE,3188,"Squash, Winter, Butternut",NA,NA,NA,34,24,26.64,0,1,NA,Squash, Winter, Butternut,,,TRUE
+11/7/21,SGC,3768,"Cranberries, organic",NA,NA,NA,38,25,27.75,0,1,NA,Cranberries, organic,,,,#N/A
+11/14/21,D2D,3180,"Radish, Watermelon",NA,NA,NA,13,31.25,34.69,0,1,NA,Radish, Watermelon,,,,TRUE
+11/14/21,OHF,3107,"Carrots, Foodservice/Jumbo, Organic",NA,NA,NA,54,24.9,27.64,0,1,NA,Carrots, Foodservice/Jumbo, Organic,,,#N/A
+11/28/21,OHF,3613,"Beets Red, bulk",NA,NA,NA,18,23.75,26.36,0,1,NA,Beets Red, bulk,,,,#N/A
+11/28/21,SEE,3105,"Cabbage, Green, Organic",NA,NA,NA,450,2.25,2.5,0,1,NA,Cabbage, Green, Organic,,,TRUE
+6/12/22,CBO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,5,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+6/12/22,CMA,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,5,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+6/19/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,15,40.01,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,TRUE
+7/3/22,HAF,3266,"Onions, Scallions",NA,NA,NA,5,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+7/3/22,HAF,3806,"Greens, Lettuce, Head",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Lettuce, Head,,,FALSE
+7/3/22,LVO,3138,"Greens, Collards",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Collards,,,,TRUE
+7/3/22,NTN,3266,"Onions, Scallions",NA,NA,NA,10,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+7/3/22,RSV,3806,"Greens, Lettuce, Head",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Lettuce, Head,,,FALSE
+7/10/22,CBO,3138,"Greens, Collards",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+7/10/22,CBO,3669,"Greens, Chard",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+7/10/22,CMA,3266,"Onions, Scallions",NA,NA,NA,5,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+7/10/22,CMA,3813,"Greens, Kale",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Kale,,,,FALSE
+7/10/22,CMU,3138,"Greens, Collards",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+7/10/22,D2D,3138,"Greens, Collards",NA,NA,NA,18,42.75,47.45,0,1,NA,Greens, Collards,,,,TRUE
+7/10/22,D2D,3813,"Greens, Kale",NA,NA,NA,16,42.75,47.45,0,1,NA,Greens, Kale,,,,TRUE
+7/10/22,HAF,3266,"Onions, Scallions",NA,NA,NA,10,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+7/10/22,JWI,3813,"Greens, Kale",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Kale,,,,FALSE
+7/10/22,LVO,3138,"Greens, Collards",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Collards,,,,TRUE
+7/10/22,NTN,3813,"Greens, Kale",NA,NA,NA,18,42.75,47.45,0,1,NA,Greens, Kale,,,,FALSE
+7/10/22,ONC,3266,"Onions, Scallions",NA,NA,NA,5,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+7/10/22,RSV,3362,"Cucumbers, Pickling",NA,NA,NA,12,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+7/10/22,TEB,3266,"Onions, Scallions",NA,NA,NA,12,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+7/10/22,YMF,3266,"Onions, Scallions",NA,NA,NA,3,33.75,37.46,0,1,NA,Onions, Scallions,,,,TRUE
+7/17/22,CBO,3138,"Greens, Collards",NA,NA,NA,3,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+7/17/22,JWI,3138,"Greens, Collards",NA,NA,NA,4,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+7/17/22,LVO,3138,"Greens, Collards",NA,NA,NA,1,42.75,47.45,0,1,NA,Greens, Collards,,,,TRUE
+7/17/22,YMF,3362,"Cucumbers, Pickling",NA,NA,NA,11,24,26.64,0,1,NA,Cucumbers, Pickling,,,,TRUE
+7/24/22,CLP,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,18,24,26.64,0,1,NA,Squash, Summer Green Zucchini, Organic,,,FALSE
+7/24/22,KSL,3669,"Greens, Chard",NA,NA,NA,13,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+7/31/22,CBS,3361,"Cucumbers, Slicing",NA,NA,NA,8,24,26.64,0,1,NA,Cucumbers, Slicing,,,,TRUE
+7/31/22,CMA,3813,"Greens, Kale",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Kale,,,,FALSE
+7/31/22,CVP,3702,"Greens, Malabar",NA,NA,NA,12,36.5,40.52,0,1,NA,Greens, Malabar,,,,FALSE
+7/31/22,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,16,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,TRUE
+7/31/22,KSL,3669,"Greens, Chard",NA,NA,NA,14,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+7/31/22,LDX,3153,"Peppers, Jalapeno",NA,NA,NA,10,30,33.3,0,1,NA,Peppers, Jalapeno,,,,TRUE
+7/31/22,LOF,3364,"Greens, Mustard",NA,NA,NA,13,42.75,47.45,0,1,NA,Greens, Mustard,,,,FALSE
+7/31/22,MHG,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,5,24,26.64,0,1,NA,Squash, Summer Green Zucchini, Organic,,,TRUE
+7/31/22,MHG,3362,"Cucumbers, Pickling",NA,NA,NA,15,24,26.64,0,1,NA,Cucumbers, Pickling,,,,TRUE
+7/31/22,MLG,3702,"Greens, Malabar",NA,NA,NA,14,36.5,40.52,0,1,NA,Greens, Malabar,,,,FALSE
+7/31/22,MMO,3813,"Greens, Kale",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Kale,,,,FALSE
+7/31/22,PZM,3153,"Peppers, Jalapeno",NA,NA,NA,21,30,33.3,0,1,NA,Peppers, Jalapeno,,,,TRUE
+8/7/22,CLP,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,8,24,26.64,0,1,NA,Squash, Summer Green Zucchini, Organic,,,FALSE
+8/7/22,CMA,3669,"Greens, Chard",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+8/7/22,D2D,3138,"Greens, Collards",NA,NA,NA,19,42.75,47.45,0,1,NA,Greens, Collards,,,,TRUE
+8/7/22,D2D,3166,"Potatoes, Red",NA,NA,NA,1,57.25,63.55,0,1,NA,Potatoes, Red,,,,TRUE
+8/7/22,HOP,3099,Beets Red w/greens,NA,NA,NA,10,43.25,48.01,0,1,NA,Beets Red w/greens,,,,,TRUE
+8/7/22,JWI,3138,"Greens, Collards",NA,NA,NA,1,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+8/7/22,LFF,3775,Kohlrabi,NA,NA,NA,18,35,38.85,0,1,NA,Kohlrabi,,,,,TRUE
+8/7/22,MFP,3266,"Onions, Scallions",NA,NA,NA,6,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+8/7/22,MLG,3854,"Greens, Pumpkin Vine",NA,NA,NA,12,36.5,40.52,0,1,NA,Greens, Pumpkin Vine,,,,FALSE
+8/7/22,ONC,3669,"Greens, Chard",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+8/7/22,YMF,3362,"Cucumbers, Pickling",NA,NA,NA,5,24,26.64,0,1,NA,Cucumbers, Pickling,,,,TRUE
+8/14/22,AGF,3733,"Melon, Cantaloupe",NA,NA,NA,100,26.75,29.69,0,1,NA,Melon, Cantaloupe,,,,TRUE
+8/14/22,AGF,3734,"Melon,  Honeydew",NA,NA,NA,50,26.75,29.69,0,1,NA,Melon,  Honeydew,,,,TRUE
+8/14/22,CLP,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,7,24,26.64,0,1,NA,Squash, Summer Green Zucchini, Organic,,,FALSE
+8/14/22,CMA,3754,Cabbage,NA,NA,NA,10,40.75,45.23,0,1,NA,Cabbage,,,,,FALSE
+8/14/22,KHF,3201,"Tomatoes, Roma",NA,NA,NA,15,40.5,44.96,0,1,NA,Tomatoes, Roma,,,,FALSE
+8/14/22,MLG,3758,"Eggplant, African (Bitter ball)",NA,NA,NA,3,24,26.64,0,1,NA,Eggplant, African (Bitter ball),,,,FALSE
+8/14/22,MLG,3759,Onions,NA,NA,NA,10,46.25,51.34,0,1,NA,Onions,,,,,FALSE
+8/14/22,ONC,3669,"Greens, Chard",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+8/14/22,PBY,3759,Onions,NA,NA,NA,10,46.25,51.34,0,1,NA,Onions,,,,,FALSE
+8/14/22,SRF,3759,Onions,NA,NA,NA,3,46.25,51.34,0,1,NA,Onions,,,,,TRUE
+8/21/22,AGF,3733,"Melon, Cantaloupe",NA,NA,NA,60,26.75,29.69,0,1,NA,Melon, Cantaloupe,,,,TRUE
+8/21/22,AGF,3734,"Melon,  Honeydew",NA,NA,NA,60,31.25,34.69,0,1,NA,Melon,  Honeydew,,,,TRUE
+8/21/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,40,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+8/21/22,CLP,3717,"Eggplant, Globe",NA,NA,NA,7,37,41.07,0,1,NA,Eggplant, Globe,,,,FALSE
+8/21/22,CMU,3202,"Tomatoes, Slicers",NA,NA,NA,10,46,51.06,0,1,NA,Tomatoes, Slicers,,,,FALSE
+8/21/22,HOP,3362,"Cucumbers, Pickling",NA,NA,NA,5,24,26.64,0,1,NA,Cucumbers, Pickling,,,,TRUE
+8/21/22,KHF,3668,"Eggplant, Japanese",NA,NA,NA,14,34.25,38.02,0,1,NA,Eggplant, Japanese,,,,FALSE
+8/21/22,LDX,3754,Cabbage,NA,NA,NA,10,40.75,45.23,0,1,NA,Cabbage,,,,,TRUE
+8/21/22,LFF,3775,Kohlrabi,NA,NA,NA,25,35,38.85,0,1,NA,Kohlrabi,,,,,TRUE
+8/21/22,LOF,3362,"Cucumbers, Pickling",NA,NA,NA,16,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+8/21/22,MLG,3759,Onions,NA,NA,NA,10,46.25,51.34,0,1,NA,Onions,,,,,FALSE
+8/21/22,PBY,3592,Broccoli,NA,NA,NA,1,37,41.07,0,1,NA,Broccoli,,,,,FALSE
+8/21/22,PBY,3668,"Eggplant, Japanese",NA,NA,NA,10,34.25,38.02,0,1,NA,Eggplant, Japanese,,,,FALSE
+8/21/22,PBY,3717,"Eggplant, Globe",NA,NA,NA,7,37,41.07,0,1,NA,Eggplant, Globe,,,,FALSE
+8/21/22,RSV,3362,"Cucumbers, Pickling",NA,NA,NA,1,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+8/21/22,RSV,3809,"Beans, Green, Yellow, or Purple",NA,NA,NA,4,71,78.81,0,1,NA,Beans, Green, Yellow, or Purple,,FALSE
+8/21/22,RSV,3828,"Peppers, Bell",NA,NA,NA,4,40.75,45.23,0,1,NA,Peppers, Bell,,,,FALSE
+8/21/22,SRF,3828,"Peppers, Bell",NA,NA,NA,10,40.75,45.23,0,1,NA,Peppers, Bell,,,,TRUE
+8/21/22,TXI,3362,"Cucumbers, Pickling",NA,NA,NA,10,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+8/28/22,AGF,3201,"Tomatoes, Roma",NA,NA,NA,7,40.5,44.96,0,1,NA,Tomatoes, Roma,,,,TRUE
+8/28/22,AGF,3449,"Peppers, Poblano",NA,NA,NA,6,46.25,51.34,0,1,NA,Peppers, Poblano,,,,TRUE
+8/28/22,CBO,3138,"Greens, Collards",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+8/28/22,CBO,3669,"Greens, Chard",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Chard,,,,FALSE
+8/28/22,CHO,3184,"Squash, Summer Green Zucchini, Organic",NA,NA,NA,14,24,26.64,0,1,NA,Squash, Summer Green Zucchini, Organic,,,FALSE
+8/28/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,60,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+8/28/22,CHO,3361,"Cucumbers, Slicing",NA,NA,NA,28,24,26.64,0,1,NA,Cucumbers, Slicing,,,,FALSE
+8/28/22,D2D,3200,"Tomatoes, Grape",NA,NA,NA,30,40.5,44.96,0,1,NA,Tomatoes, Grape,,,,TRUE
+8/28/22,HOP,3166,"Potatoes, Red",NA,NA,NA,17,57.25,63.55,0,1,NA,Potatoes, Red,,,,TRUE
+8/28/22,MHG,3200,"Tomatoes, Grape",NA,NA,NA,6,40.5,44.96,0,1,NA,Tomatoes, Grape,,,,TRUE
+8/28/22,ONC,3754,Cabbage,NA,NA,NA,9,40.75,45.23,0,1,NA,Cabbage,,,,,FALSE
+8/28/22,PBY,3592,Broccoli,NA,NA,NA,10,37,41.07,0,1,NA,Broccoli,,,,,FALSE
+8/28/22,SRF,3135,Sweet Corn,NA,NA,NA,0,31.25,34.69,0,1,NA,Sweet Corn,,,,,TRUE
+8/28/22,SXF,3362,"Cucumbers, Pickling",NA,NA,NA,11,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+8/28/22,YMF,3754,Cabbage,NA,NA,NA,10,40.75,45.23,0,1,NA,Cabbage,,,,,TRUE
+9/4/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,22,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+9/4/22,CMU,3202,"Tomatoes, Slicers",NA,NA,NA,2,46,51.06,0,1,NA,Tomatoes, Slicers,,,,FALSE
+9/4/22,CTH,3202,"Tomatoes, Slicers",NA,NA,NA,15,46,51.06,0,1,NA,Tomatoes, Slicers,,,,FALSE
+9/4/22,NTN,3449,"Peppers, Poblano",NA,NA,NA,5,46.25,51.34,0,1,NA,Peppers, Poblano,,,,FALSE
+9/4/22,ONC,3754,Cabbage,NA,NA,NA,5,40.75,45.23,0,1,NA,Cabbage,,,,,FALSE
+9/4/22,RSV,3362,"Cucumbers, Pickling",NA,NA,NA,15,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+9/4/22,RSV,3809,"Beans, Green, Yellow, or Purple",NA,NA,NA,18,71,78.81,0,1,NA,Beans, Green, Yellow, or Purple,,FALSE
+9/4/22,TEB,3266,"Onions, Scallions",NA,NA,NA,10,33.75,37.46,0,1,NA,Onions, Scallions,,,,FALSE
+9/11/22,AGF,3095,#N/A,NA,NA,NA,9,455,505.05,0,1,NA,#N/A,,,,,TRUE
+9/11/22,AGF,3201,"Tomatoes, Roma",NA,NA,NA,10,40.5,44.96,0,1,NA,Tomatoes, Roma,,,,TRUE
+9/11/22,CBO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,4,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+9/11/22,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,60,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+9/11/22,CHO,3361,"Cucumbers, Slicing",NA,NA,NA,20,24,26.64,0,1,NA,Cucumbers, Slicing,,,,FALSE
+9/11/22,CMA,3754,Cabbage,NA,NA,NA,10,40.75,45.23,0,1,NA,Cabbage,,,,,FALSE
+9/11/22,CVP,3702,"Greens, Malabar",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Malabar,,,,FALSE
+9/11/22,LEE,3809,"Beans, Green, Yellow, or Purple",NA,NA,NA,14,71,78.81,0,1,NA,Beans, Green, Yellow, or Purple,,#N/A
+9/11/22,LOF,3362,"Cucumbers, Pickling",NA,NA,NA,15,24,26.64,0,1,NA,Cucumbers, Pickling,,,,FALSE
+9/11/22,MLG,3809,"Beans, Green, Yellow, or Purple",NA,NA,NA,10,71,78.81,0,1,NA,Beans, Green, Yellow, or Purple,,FALSE
+9/11/22,ONC,3754,Cabbage,NA,NA,NA,15,40.75,45.23,0,1,NA,Cabbage,,,,,FALSE
+9/11/22,PBY,3089,Melon Watermelon Red Seeded Organic,NA,NA,NA,25,30.75,34.13,0,1,NA,Melon Watermelon Red Seeded Organic,,,,,FALSE
+9/11/22,YMF,3809,"Beans, Green, Yellow, or Purple",NA,NA,NA,12,71,78.81,0,1,NA,Beans, Green, Yellow, or Purple,,TRUE
+9/11/22,YMF,3853,"Greens, Eggplant Leaves - 12 bunch",NA,NA,NA,20,36.5,40.52,0,1,NA,Greens, Eggplant Leaves - 12 bunch,,,,TRUE
+9/18/22,BXF,3138,"Greens, Collards",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+9/18/22,CMA,3138,"Greens, Collards",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+9/18/22,CMA,3754,Cabbage,NA,NA,NA,10,40.75,45.23,0,1,NA,Cabbage,,,,,FALSE
+9/18/22,CMU,3138,"Greens, Collards",NA,NA,NA,10,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+9/18/22,CMU,3755,Carrots,NA,NA,NA,5,36.75,40.79,0,1,NA,Carrots,,,,,FALSE
+9/18/22,MLG,3828,"Peppers, Bell",NA,NA,NA,20,40.75,45.23,0,1,NA,Peppers, Bell,,,,FALSE
+10/2/22,CBO,3138,"Greens, Collards",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Collards,,,,FALSE
+10/2/22,CBO,3278,"Radish, Red, Bulk, Bunched w/Tops",NA,NA,NA,7,43.5,48.29,0,1,NA,Radish, Red, Bulk, Bunched w/Tops,,FALSE
+10/2/22,CBO,3813,"Greens, Kale",NA,NA,NA,5,42.75,47.45,0,1,NA,Greens, Kale,,,,FALSE
+10/2/22,HOP,3166,"Potatoes, Red",NA,NA,NA,50,57.25,63.55,0,1,NA,Potatoes, Red,,,,TRUE
+10/2/22,MLG,3755,Carrots,NA,NA,NA,20,36.75,40.79,0,1,NA,Carrots,,,,,FALSE
+10/9/22,CMU,3132,"Carrots, Rainbow",NA,NA,NA,22,36.75,40.79,0,1,NA,Carrots, Rainbow,,,,FALSE
